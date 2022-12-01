@@ -63,7 +63,7 @@
                                             can find here co-living property, So you have lots of opportunity
                                         </p>
                                         <div class="inline-block hero_btn">
-                                            <a href="contact-us.html"
+                                            <a href="{{ url('Contact-Us') }}"
                                                 class="before:rounded-md before:block before:absolute before:left-auto before:right-0 before:inset-y-0 before:-z-[1] before:bg-white before:w-0 hover:before:w-full hover:before:left-0 hover:before:right-auto hover:text-primary before:transition-all leading-none px-[20px] py-[15px] capitalize font-medium text-white text-[14px] xl:text-[16px] relative after:block after:absolute after:inset-0 after:-z-[2] after:bg-secondary after:rounded-md after:transition-all block">Contact
                                                 us</a>
                                         </div>
@@ -536,15 +536,17 @@
     <section class="featured-properties py-[80px] lg:py-[125px]">
         <div class="container">
             <div class="grid grid-cols-12">
-                <div class="col-span-12">
+                <div class="col-span-12 d-flex">
                     <span class="text-secondary text-tiny inline-block mb-2">Newly Added</span>
                 </div>
                 <div class="col-span-12 flex flex-wrap flex-col md:flex-row items-start justify-between mb-[50px]">
                     <div class="mb-5 lg:mb-0">
 
                         <h2 class="font-lora text-primary text-[24px] sm:text-[30px] xl:text-xl capitalize font-medium">
-                            Featured
-                            Properties<span class="text-secondary">.</span></h2>
+                            Our New Project<span class="text-secondary">.</span></h2>
+                    </div>
+                    <div class="">
+                        <img src="{{ asset('assets/images/logo/LaVista.png') }}" alt="logo">
                     </div>
                 </div>
                 <div class="col-span-12">
@@ -1467,7 +1469,6 @@
                     </div>
                 </div>
             </div>
-
 
             <div class="grid grid-cols-12 gap-x-[15px] lg:gap-x-[30px] mb-[-30px]">
                 <div class="mb-[30px] col-span-12 sm:col-span-4">
