@@ -107,7 +107,7 @@
                                             </span>
 
                                             <span
-                                                class="text-secondary text-tiny capitalize inline-block mb-[5px] xl:mb-[10px]">Testimonial</span>
+                                                class="text-secondary text-tiny capitalize inline-block mb-[5px] xl:mb-[10px]">Reviews</span>
                                             <h2
                                                 class="font-lora text-primary text-[24px] xl:text-xl capitalize mb-[10px] xl:mb-[20px] leading-[1.2] font-medium">
                                                 Reviews from our <br class="hidden xl:block" /> happy Clients<span
@@ -124,8 +124,7 @@
                                         <ul>
                                             <li class="flex flex-wrap items-center justify-between mt-4">
                                                 <span
-                                                    class="font-lora text-[18px] leading-none capitalize text-secondary">Oliver
-                                                    Stephen</span>
+                                                    class="font-lora text-[18px] leading-none capitalize text-secondary">Ali Haider</span>
                                                 <span class="flex flex-wrap">
                                                     <span class="ml-[4px]">
                                                         <svg width="10" height="11" viewBox="0 0 10 11"
@@ -212,7 +211,7 @@
                                             </span>
 
                                             <span
-                                                class="text-secondary text-tiny capitalize inline-block mb-[5px] xl:mb-[10px]">Testimonial</span>
+                                                class="text-secondary text-tiny capitalize inline-block mb-[5px] xl:mb-[10px]">Reviews</span>
                                             <h2
                                                 class="font-lora text-primary text-[24px] xl:text-xl capitalize mb-[10px] xl:mb-[20px] leading-[1.2] font-medium">
                                                 Reviews from our <br class="hidden xl:block" /> happy Clients<span
@@ -229,8 +228,7 @@
                                         <ul>
                                             <li class="flex flex-wrap items-center justify-between mt-4">
                                                 <span
-                                                    class="font-lora text-[18px] leading-none capitalize text-secondary">Sun
-                                                    Francisco</span>
+                                                    class="font-lora text-[18px] leading-none capitalize text-secondary">Umer</span>
                                                 <span class="flex flex-wrap">
                                                     <span class="ml-[4px]">
                                                         <svg width="10" height="11" viewBox="0 0 10 11"
