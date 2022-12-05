@@ -4,7 +4,7 @@ style="background-image: url('assets/images/footer/pattern.png');">
 <div class="container">
     <div class="grid grid-cols-12 gap-x-[30px] mb-[-30px]">
         <div class="col-span-12 sm:col-span-6 lg:col-span-4 mb-[30px]">
-            <a href="index.html" class="block mb-[25px]">
+            <a href="{{ url('/') }}" class="block mb-[25px]">
                 <img src="assets/images/logo/Almanan1.png" width="99" height="46" loading=lazy
                     alt="footer logo">
             </a>

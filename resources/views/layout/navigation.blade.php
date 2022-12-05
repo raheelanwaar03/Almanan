@@ -37,7 +37,7 @@
                 <div class="grid grid-cols-12">
                     <div class="col-span-12">
                         <div class="flex flex-wrap items-center justify-between">
-                            <a href="index.html" class="block">
+                            <a href="{{ url('/') }}" class="block">
                                 <img class="w-full h-full white-logo" src="assets/images/logo/Almanan1.png"
                                     loading="lazy" width="99" height="46" alt="brand logo">
                                 <img class="w-full h-full hidden dark-logo" src="assets/images/logo/Almanan1.png"
@@ -51,12 +51,16 @@
                                             class="sticky-dark transition-all text-white hover:text-secondary">Home</a>
                                     </li>
                                     <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
-                                        <a href="{{ url('About-Us') }}"
+                                        <a href="{{ url('/About-Us') }}"
                                             class="sticky-dark transition-all text-white hover:text-secondary">About</a>
                                     </li>
                                     <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
+                                        <a href="{{ url('/Services') }}"
+                                            class="sticky-dark transition-all text-white hover:text-secondary">Services</a>
+                                    </li>
+                                    <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
 
-                                        <a href="{{ url('Contact-Us') }}"
+                                        <a href="{{ url('/Contact-Us') }}"
                                             class="sticky-dark transition-all text-white hover:text-secondary">Contact</a>
 
                                     </li>
@@ -90,12 +94,16 @@
                                 class="block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">Home</a>
                         </li>
                         <li class="relative block border-b-primary border-b">
-                            <a href="{{ url('About-Us') }}"
+                            <a href="{{ url('/About-Us') }}"
                                 class="block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">About</a>
+                        </li>
+                        <li class="relative block border-b-primary border-b">
+                            <a href="{{ url('/Services') }}"
+                                class="block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">Services</a>
                         </li>
                     </ul>
                     </li>
-                    <li class="relative block border-b-primary border-b"><a href="{{ url('Contact-Us') }}"
+                    <li class="relative block border-b-primary border-b"><a href="{{ url('/Contact-Us') }}"
                             class="relative block capitalize text-black hover:text-secondary text-base my-2 py-1 px-5">Contact</a>
                     </li>
                     </ul>
