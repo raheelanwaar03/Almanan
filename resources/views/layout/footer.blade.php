@@ -17,34 +17,14 @@ style="background-image: url('assets/images/footer/pattern.png');">
                 Information<span class="text-secondary">.</span></h3>
             <ul class="text-[16px] leading-none mb-[-20px]">
                 <li class="mb-[20px]"><a class="inline-block transition-all hover:text-secondary"
-                        href="about.html">About
+                        href="{{ url('/About-Us') }}">About
                         us</a></li>
                 <li class="mb-[20px]"><a class="inline-block transition-all hover:text-secondary"
-                        href="about.html">Contact Us</a></li>
+                        href="{{ url('/Contact-Us') }}">Contact Us</a></li>
                 <li class="mb-[20px]"><a class="inline-block transition-all hover:text-secondary"
-                        href="about.html">Projects</a></li>
+                        href="{{ url('/Services') }}">Our Services</a></li>
             </ul>
         </div>
-        <!-- <div class="col-span-12 sm:col-span-6 lg:col-span-3 mb-[30px]">
-            <h3
-                class="font-lora font-normal text-[22px] leading-[1.222] text-primary mb-[20px] lg:mb-[30px]">
-                Support<span class="text-secondary">.</span></h3>
-            <ul class="text-[16px] leading-none mb-[-20px]">
-                <li class="mb-[20px]"><a class="inline-block transition-all hover:text-secondary"
-                        href="add-properties.html">Add Property</a></li>
-                <li class="mb-[20px]"><a class="inline-block transition-all hover:text-secondary"
-                        href="#">Terms &
-                        Conditions</a></li>
-                <li class="mb-[20px]"><a class="inline-block transition-all hover:text-secondary"
-                        href="#">Help line</a>
-                </li>
-                <li class="mb-[20px]"><a class="inline-block transition-all hover:text-secondary"
-                        href="agent.html">Our
-                        Agents</a></li>
-                <li class="mb-[20px]"><a class="inline-block transition-all hover:text-secondary"
-                        href="#">features</a></li>
-            </ul>
-        </div> -->
         <div class="col-span-12 sm:col-span-6 lg:col-span-2 mb-[30px]">
             <h3
                 class="font-lora font-normal text-[22px] leading-[1.222] text-primary mb-[20px] lg:mb-[30px]">

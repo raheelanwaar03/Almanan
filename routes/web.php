@@ -27,3 +27,8 @@ Route::get('/About-Us', function () {
 Route::get('/Contact-Us', function () {
     return view('contactUs');
 });
+
+
+Route::get('/Services', function () {
+    return view('contactUs');
+});
