@@ -67,7 +67,7 @@
                         </li>
                         <li class="m-[10px]">
                             <span class="text-secondary block">Properties.</span>
-                            <span class="text-primary">75 Properties</span>
+                            <span class="text-primary">Your Desired Properties</span>
                         </li>
                     </ul>
                 </div>

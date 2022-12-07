@@ -15,7 +15,7 @@
                                         <div style="margin-top:50px;">
                                         </div>
                                         <h1
-                                            class="font-lora text-white text-[36px] sm:text-[50px] md:text-[68px] lg:text-[50px] leading-tight xl:text-2xl title">
+                                            class="font-lora text-white text-[26px] sm:text-[60px] md:text-[68px] lg:text-[50px] leading-tight xl:text-2xl title">
                                             <span>MODERN VILLAS</span>
                                         </h1>
 
@@ -730,8 +730,6 @@
                                             height="500" loading="lazy" alt="shape">
                                     </div>
                                 </div>
-
-
                                 <div
                                     class="before:absolute before:top-1/2 before:-translate-y-1/2 before:left-0 before:w-full before:h-[395px] before:content-[''] before:bg-[#F5F9F8] before:rounded-[30px]">
 
@@ -836,8 +834,6 @@
                                             height="500" loading="lazy" alt="shape">
                                     </div>
                                 </div>
-
-
                                 <div
                                     class="before:absolute before:top-1/2 before:-translate-y-1/2 before:left-0 before:w-full before:h-[395px] before:content-[''] before:bg-[#F5F9F8] before:rounded-[30px]">
 
