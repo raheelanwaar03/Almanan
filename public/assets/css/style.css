@@ -6261,3 +6261,12 @@ input:focus {
     max-width: 830px;
   }
 }
+
+.developer
+{
+    background-color: #0B2C3D;
+    height: 30px;
+    text-align: center;
+    color: white;
+
+}

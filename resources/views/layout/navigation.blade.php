@@ -38,10 +38,15 @@
                     <div class="col-span-12">
                         <div class="flex flex-wrap items-center justify-between">
                             <a href="{{ url('/') }}" class="block">
-                                <img class="w-full h-full white-logo" src="assets/images/logo/Almanan1.png"
-                                    loading="lazy" width="99" height="46" alt="brand logo">
-                                <img class="w-full h-full hidden dark-logo" src="assets/images/logo/Almanan1.png"
-                                    loading="lazy" width="99" height="46" alt="brand logo">
+                                <div style="display: flex;justify-content:center;align-items:center">
+                                    <img class="w-full h-full white-logo" src="assets/images/logo/Almanan1.png"
+                                        loading="lazy" width="99" height="46" alt="brand logo">
+                                    <img style="margin-left:20px" class="w-full h-full white-logo"
+                                        src="assets/images/logo/light.png" loading="lazy" width="99" height="46"
+                                        alt="brand logo">
+                                    <img class="w-full h-full hidden dark-logo" src="assets/images/logo/Almanan1.png"
+                                        loading="lazy" width="99" height="46" alt="brand logo">
+                                </div>
                             </a>
                             <nav class="flex flex-wrap items-center">
                                 <ul
