@@ -51,6 +51,10 @@
                                             class="sticky-dark transition-all text-white hover:text-secondary">Home</a>
                                     </li>
                                     <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
+                                        <a href="{{ url('/Projects') }}"
+                                            class="sticky-dark transition-all text-white hover:text-secondary">Projects</a>
+                                    </li>
+                                    <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
                                         <a href="{{ url('/About-Us') }}"
                                             class="sticky-dark transition-all text-white hover:text-secondary">About</a>
                                     </li>
@@ -91,6 +95,10 @@
                     <ul>
                         <li class="relative block border-b-primary border-b first:border-t first:border-t-primary">
                             <a href="{{ url('/') }}"
+                                class="block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">Home</a>
+                        </li>
+                        <li class="relative block border-b-primary border-b first:border-t first:border-t-primary">
+                            <a href="{{ url('/Projects') }}"
                                 class="block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">Home</a>
                         </li>
                         <li class="relative block border-b-primary border-b">
