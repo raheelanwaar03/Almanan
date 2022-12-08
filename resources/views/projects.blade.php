@@ -59,7 +59,7 @@
                         class="font-lora text-[18px] flex flex-wrap sm:items-center justify-between m-[-10px] flex-col sm:flex-row items-start">
                         <li class="m-[10px]">
                             <span class="text-secondary block">Phone no.</span>
-                            <a href="tel:+9985254784" class="text-primary">0304 1119333</a>
+                            <a href="#" class="text-primary">0304 1119333</a>
                         </li>
                         <li class="m-[10px]">
                             <span class="text-secondary block">Agent.</span>
@@ -146,7 +146,7 @@
                             <div
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
-                                    <a href="" class="block">
+                                    <a href="#" class="block">
                                         <img src="assets/images/LaVista/img2.jpg" class="w-full h-full"
                                             loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
                                     </a>
@@ -158,7 +158,7 @@
                             <div
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
-                                    <a href="" class="block">
+                                    <a href="#" class="block">
                                         <img src="assets/images/LaVista/img4.jpg" class="w-full h-full"
                                             loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
                                     </a>
@@ -169,7 +169,7 @@
                             <div
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
-                                    <a href="" class="block">
+                                    <a href="#" class="block">
                                         <img src="assets/images/LaVista/img6.jpg" class="w-full h-full"
                                             loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
                                     </a>
@@ -180,7 +180,7 @@
                             <div
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
-                                    <a href="" class="block">
+                                    <a href="#" class="block">
                                         <img src="assets/images/LaVista/img8.jpg" class="w-full h-full"
                                             loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
                                     </a>
@@ -191,7 +191,7 @@
                             <div
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
-                                    <a href="" class="block">
+                                    <a href="#" class="block">
                                         <img src="assets/images/LaVista/img3.jpg" class="w-full h-full"
                                             loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
                                     </a>

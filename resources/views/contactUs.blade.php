@@ -46,8 +46,8 @@
                 <div class="flex-1">
                     <h4 class="font-lora group-hover:text-secondary group-hover:transition-all leading-none text-[28px] text-primary mb-[10px]">Email us <span class="text-secondary">.</span></h4>
                     <p class="font-light text-[18px] lg:max-w-[230px]">
-                        <a href="mailto:admin@examples.com" class="hover:text-secondary">admin@almannanbuilders.com</a>
-                        <a href="mailto:info@examples.com" class="hover:text-secondary">info@almannanbuilders.com</a>
+                        <a href="#" class="hover:text-secondary">admin@almannanbuilders.com</a>
+                        <a href="#" class="hover:text-secondary">info@almannanbuilders.com</a>
                     </p>
                 </div>
             </div>

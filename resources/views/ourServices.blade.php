@@ -98,7 +98,7 @@
 
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-[30px]">
                 <div class="relative group">
-                    <a href="properties-details.html" class="block">
+                    <a href="#" class="block">
                         <img src="assets/images/service/service1.png"
                             class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
                             height="290" alt="Sale Property">
@@ -112,7 +112,7 @@
                     </a>
                 </div>
                 <div class="relative group">
-                    <a href="properties-details.html" class="block">
+                    <a href="#" class="block">
                         <img src="assets/images/service/service2.png"
                             class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
                             height="290" alt="Buy Property">
@@ -126,7 +126,7 @@
                     </a>
                 </div>
                 <div class="relative group">
-                    <a href="properties-details.html" class="block">
+                    <a href="#" class="block">
                         <img src="assets/images/service/service3.png"
                             class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
                             height="290" alt="Rent Property">
@@ -140,7 +140,7 @@
                     </a>
                 </div>
                 <div class="relative group">
-                    <a href="properties-details.html" class="block">
+                    <a href="#" class="block">
                         <img src="assets/images/service/service4.png"
                             class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
                             height="290" alt="Mortgage">
@@ -172,7 +172,7 @@
                 <!-- single team start -->
                 <div class="text-center group mb-[30px]">
                     <div class="relative rounded-[6px_6px_0px_0px]">
-                        <a href="agent-details.html">
+                        <a href="#">
                             <img src="assets/images/team/person1.jpg" class="w-auto h-auto block mx-auto" loading="lazy"
                                 width="215" height="310" alt="Amelia Margaret">
                         </a>
@@ -218,7 +218,7 @@
 
                     <div
                         class="bg-[#FFFDFC] z-[1] drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] rounded-[0px_0px_6px_6px] px-3 md:px-[15px] py-[20px] border-b-[6px] border-primary transition-all duration-500 before:transition-all before:duration-300 group-hover:border-secondary relative">
-                        <h3><a href="agent-details.html"
+                        <h3><a href="#"
                                 class="font-lora font-normal text-base text-primary group-hover:text-secondary">RANA
                                 MANNAN</a></h3>
                         <p class="font-normal text-[14px] leading-none capitalize mt-[5px] group-hover:text-body">
@@ -227,7 +227,7 @@
                 </div>
                 <div class="text-center group mb-[30px]">
                     <div class="relative rounded-[6px_6px_0px_0px]">
-                        <a href="agent-details.html">
+                        <a href="#">
                             <img src="assets/images/team/person.jpg" class="w-auto h-auto block mx-auto" loading="lazy"
                                 width="215" height="310" alt="Stephen Kelvin">
                         </a>
@@ -273,7 +273,7 @@
 
                     <div
                         class="bg-[#FFFDFC] z-[1] drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] rounded-[0px_0px_6px_6px] px-3 md:px-[15px] py-[20px] border-b-[6px] border-primary transition-all duration-500 before:transition-all before:duration-300 group-hover:border-secondary relative">
-                        <h3><a href="agent-details.html"
+                        <h3><a href="#"
                                 class="font-lora font-normal text-base text-primary group-hover:text-secondary">RANA
                                 RAYYAN</a></h3>
                         <p class="font-normal text-[14px] leading-none capitalize mt-[5px] group-hover:text-body">
@@ -282,7 +282,7 @@
                 </div>
                 <div class="text-center group mb-[30px]">
                     <div class="relative rounded-[6px_6px_0px_0px]">
-                        <a href="agent-details.html">
+                        <a href="#">
                             <img src="assets/images/team/team.jpg" class="w-auto h-auto block mx-auto" loading="lazy"
                                 width="215" height="310" alt="Stephen Kelvin">
                         </a>
@@ -328,7 +328,7 @@
 
                     <div
                         class="bg-[#FFFDFC] z-[1] drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] rounded-[0px_0px_6px_6px] px-3 md:px-[15px] py-[20px] border-b-[6px] border-primary transition-all duration-500 before:transition-all before:duration-300 group-hover:border-secondary relative">
-                        <h3><a href="agent-details.html"
+                        <h3><a href="#"
                                 class="font-lora font-normal text-base text-primary group-hover:text-secondary">Our
                                 team</a></h3>
                         <p class="font-normal text-[14px] leading-none capitalize mt-[5px] group-hover:text-body">
