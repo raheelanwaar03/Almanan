@@ -337,7 +337,7 @@
                                     class="rounded-[24px] max-w-full" loading="lazy" width="507" height="349"
                                     alt="video image">
                             </div>
-                            <a href="https://www.youtube.com/watch?v=mSC6GwizOag"
+                            <a href="https://youtu.be/E-AIG_CIzOE"
                                 class="play-button bg-white text-white hover:text-primary absolute left-0 right-0 mx-auto top-1/2 -translate-y-1/2 hover:scale-105 hover:bg-primary w-[55px] h-[55px] flex
             flex-wrap z-[1] items-center justify-center opacity-100 shadow-[0px 4px 4px rgba(0, 0, 0, 0.25)] transition-all rounded-full group
 
