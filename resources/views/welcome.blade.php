@@ -7,38 +7,6 @@
                 <div class="swiper-wrapper">
                     <!-- swiper-slide start -->
                     <div class="swiper-slide bg-no-repeat bg-left-bottom bg-sky-100 z-[1] relative before:absolute before:w-full before:h-full before:inset-0 before:content-[''] before:bg-[#fff] before:opacity-[75%] before:z-[-1] py-[80px] lg:py-[125px]"
-                        style="background-image: url('assets/images/hero/property2.jpg');">
-                        <div class="container">
-                            <div class="grid grid-cols-12">
-                                <div class="col-span-12">
-                                    <div class="slider-content">
-                                        <div style="margin-top:50px;">
-                                        </div>
-                                        <h1
-                                            class="font-lora text-white text-[36px] sm:text-[50px] md:text-[68px] lg:text-[50px] leading-tight xl:text-2xl title">
-                                            <span>SPANISH VILLAS</span>
-                                        </h1>
-
-                                        <p class="text-base text-white font-light text">
-                                            Join us for the grand release of DHA Multan's newest community of 10 marla,
-                                            Spanish Villa. <br> Its exclusive design and stunning location will redefine
-                                            your
-                                            idea of luxury living. <br> We've got best designs at the best prices.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-span-12 xl:col-span-10" style="margin-top:100px">
-                                    <a href="{{ url('Contact-Us') }}"
-                                        class="text-white text-base underline capitalize hover:text-secondary">Contact
-                                        us</a>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                    <!-- swiper-slide end-->
-                    <!-- swiper-slide start -->
-                    <div class="swiper-slide bg-no-repeat bg-left-bottom bg-sky-100 z-[1] relative before:absolute before:w-full before:h-full before:inset-0 before:content-[''] before:bg-[#fff] before:opacity-[75%] before:z-[-1] py-[80px] lg:py-[125px]"
                         style="background-image: url('assets/images/hero/property1.jpg');">
                         <div class="container">
                             <div class="grid grid-cols-12">
@@ -60,7 +28,40 @@
                                     </div>
                                 </div>
 
-                                <div class="col-span-12 xl:col-span-10" style="margin-top:100px">
+                                <div class="col-span-12 xl:col-span-10" style="margin-top:50px">
+                                    <a href="{{ url('Contact-Us') }}"
+                                        class="text-white text-base underline capitalize hover:text-secondary">Contact
+                                        us</a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- swiper-slide end-->
+                    <!-- swiper-slide start -->
+                    <div class="swiper-slide bg-no-repeat bg-left-bottom bg-sky-100 z-[1] relative before:absolute before:w-full before:h-full before:inset-0 before:content-[''] before:bg-[#fff] before:opacity-[75%] before:z-[-1] py-[80px] lg:py-[125px]"
+                        style="background-image: url('assets/images/hero/property2.jpg');">
+                        <div class="container">
+                            <div class="grid grid-cols-12">
+                                <div class="col-span-12">
+                                    <div class="slider-content">
+                                        <div style="margin-top:50px;">
+                                        </div>
+                                        <h1
+                                            class="font-lora text-white text-[36px] sm:text-[50px] md:text-[68px] lg:text-[50px] leading-tight xl:text-2xl title">
+                                            <span>SPANISH VILLAS</span>
+                                        </h1>
+
+                                        <p class="text-base text-white font-light text">
+                                            Join us for the grand release of DHA Multan's newest community of 10 marla,
+                                            Spanish Villa. <br> Its exclusive design and stunning location will redefine
+                                            your
+                                            idea of luxury living. <br> We've got best designs at the best prices.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div class="col-span-12 xl:col-span-10" style="margin-top:50px">
                                     <a href="{{ url('Contact-Us') }}"
                                         class="text-white text-base underline capitalize hover:text-secondary">Contact
                                         us</a>

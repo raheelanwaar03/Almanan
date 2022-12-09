@@ -141,15 +141,15 @@
                 </div>
                 <div class="relative group">
                     <a href="#" class="block">
-                        <img src="assets/images/service/service4.png"
+                        <img src="assets/images/service/slide1.png"
                             class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
                             height="290" alt="Mortgage">
                         <div
                             class="drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] hover:drop-shadow-[0px_8px_20px_rgba(0,0,0,0.15)] bg-[#FFFDFC] rounded-[0px_0px_6px_6px] px-[25px] py-[25px]">
                             <h3
                                 class="font-lora font-normal text-[24px] xl:text-lg text-primary group-hover:text-secondary transition-all mb-[5px]">
-                                Mortgage<span class="text-secondary group-hover:text-primary">.</span> </h3>
-                            <p class="font-light text-tiny">Provide prorpery Mortgage options opportunity to find the best </p>
+                                Interior Design<span class="text-secondary group-hover:text-primary">.</span> </h3>
+                            <p class="font-light text-tiny">Interior designing options to make eye-catching design.</p>
                         </div>
                     </a>
                 </div>
