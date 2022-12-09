@@ -7,6 +7,38 @@
                 <div class="swiper-wrapper">
                     <!-- swiper-slide start -->
                     <div class="swiper-slide bg-no-repeat bg-left-bottom bg-sky-100 z-[1] relative before:absolute before:w-full before:h-full before:inset-0 before:content-[''] before:bg-[#fff] before:opacity-[75%] before:z-[-1] py-[80px] lg:py-[125px]"
+                        style="background-image: url('assets/images/hero/property2.jpg');">
+                        <div class="container">
+                            <div class="grid grid-cols-12">
+                                <div class="col-span-12">
+                                    <div class="slider-content">
+                                        <div style="margin-top:50px;">
+                                        </div>
+                                        <h1
+                                            class="font-lora text-white text-[36px] sm:text-[50px] md:text-[68px] lg:text-[50px] leading-tight xl:text-2xl title">
+                                            <span>SPANISH VILLAS</span>
+                                        </h1>
+
+                                        <p class="text-base text-white font-light text">
+                                            Join us for the grand release of DHA Multan's newest community of 10 marla,
+                                            Spanish Villa. <br> Its exclusive design and stunning location will redefine
+                                            your
+                                            idea of luxury living. <br> We've got best designs at the best prices.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-span-12 xl:col-span-10" style="margin-top:100px">
+                                    <a href="{{ url('Contact-Us') }}"
+                                        class="text-white text-base underline capitalize hover:text-secondary">Contact
+                                        us</a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- swiper-slide end-->
+                    <!-- swiper-slide start -->
+                    <div class="swiper-slide bg-no-repeat bg-left-bottom bg-sky-100 z-[1] relative before:absolute before:w-full before:h-full before:inset-0 before:content-[''] before:bg-[#fff] before:opacity-[75%] before:z-[-1] py-[80px] lg:py-[125px]"
                         style="background-image: url('assets/images/hero/property1.jpg');">
                         <div class="container">
                             <div class="grid grid-cols-12">
@@ -28,122 +60,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-span-12 xl:col-span-10" style="margin-top:50px">
-                                    <ul
-                                        class="flex flex-wrap items-center sm:justify-between text-white mt-[-20px] mb-[10px] lg:mb-[60px]">
-
-                                        <li
-                                            class="pr-[30px] sm:pr-[35px] lg:pr-[70px] sm:border-r sm:border-[#E0E0E0] my-[20px]">
-                                            <img class="mb-[15px]" src="assets/images/icon/home.png" width="33"
-                                                height="33" alt="icon">
-                                            <span>2350 Sq.fit</span>
-                                        </li>
-
-
-                                        <li
-                                            class="pr-[30px] sm:pr-[35px] lg:pr-[70px] sm:border-r sm:border-[#E0E0E0] my-[20px]">
-                                            <img class="mb-[15px]" src="assets/images/icon/bed.png" width="33"
-                                                height="31" alt="icon">
-                                            <span>Bedrooms</span>
-                                        </li>
-
-                                        <li
-                                            class="pr-[30px] sm:pr-[35px] lg:pr-[70px] sm:border-r sm:border-[#E0E0E0] my-[20px]">
-                                            <img class="mb-[15px]" src="assets/images/icon/bathroom.png" width="32"
-                                                height="33" alt="icon">
-                                            <span>Bathroom</span>
-                                        </li>
-
-                                        <li
-                                            class="pr-[30px] sm:pr-[35px] lg:pr-[70px] sm:border-r sm:border-[#E0E0E0] my-[20px]">
-                                            <img class="mb-[15px]" src="assets/images/icon/kitchen.png" width="31"
-                                                height="31" alt="icon">
-                                            <span>2 Kitchen</span>
-                                        </li>
-
-                                        <li class="my-[20px]">
-                                            <img class="mb-[15px]" src="assets/images/icon/garage.png" width="32"
-                                                height="32" alt="icon">
-                                            <span>3 Garage</span>
-                                        </li>
-
-                                    </ul>
-
-
-                                    <a href="{{ url('Contact-Us') }}"
-                                        class="text-white text-base underline capitalize hover:text-secondary">Contact
-                                        us</a>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                    <!-- swiper-slide end-->
-                    <!-- swiper-slide start -->
-                    <div class="swiper-slide bg-no-repeat bg-left-bottom bg-sky-100 z-[1] relative before:absolute before:w-full before:h-full before:inset-0 before:content-[''] before:bg-[#fff] before:opacity-[75%] before:z-[-1] py-[80px] lg:py-[125px]"
-                        style="background-image: url('assets/images/hero/property2.jpg');">
-                        <div class="container">
-                            <div class="grid grid-cols-12">
-                                <div class="col-span-12">
-                                    <div class="slider-content">
-                                        <div style="margin-top:50px;">
-                                        </div>
-                                        <h1
-                                            class="font-lora text-white text-[36px] sm:text-[50px] md:text-[68px] lg:text-[50px] leading-tight xl:text-2xl title">
-                                            <span>SPANISH VILLAS</span>
-                                        </h1>
-
-                                        <p class="text-base text-white font-light text">
-                                            Join us for the grand release of DHA Multan's newest community of 10 marla,
-                                            Spanish Villa. <br> Its exclusive design and stunning location will redefine
-                                            your
-                                            idea of luxury living. <br> We've got best designs at the best prices.
-                                        </p>
-                                    </div>
-                                </div>
-
-                                <div class="col-span-12 xl:col-span-10" style="margin-top:50px">
-                                    <ul
-                                        class="flex flex-wrap items-center sm:justify-between text-white mt-[-20px] mb-[10px] lg:mb-[60px]">
-
-                                        <li
-                                            class="pr-[30px] sm:pr-[35px] lg:pr-[70px] sm:border-r sm:border-[#E0E0E0] my-[20px]">
-                                            <img class="mb-[15px]" src="assets/images/icon/home.png" width="33"
-                                                height="33" alt="icon">
-                                            <span>2350 Sq.fit</span>
-                                        </li>
-
-
-                                        <li
-                                            class="pr-[30px] sm:pr-[35px] lg:pr-[70px] sm:border-r sm:border-[#E0E0E0] my-[20px]">
-                                            <img class="mb-[15px]" src="assets/images/icon/bed.png" width="33"
-                                                height="31" alt="icon">
-                                            <span>Bedrooms</span>
-                                        </li>
-
-                                        <li
-                                            class="pr-[30px] sm:pr-[35px] lg:pr-[70px] sm:border-r sm:border-[#E0E0E0] my-[20px]">
-                                            <img class="mb-[15px]" src="assets/images/icon/bathroom.png" width="32"
-                                                height="33" alt="icon">
-                                            <span>Bathroom</span>
-                                        </li>
-
-                                        <li
-                                            class="pr-[30px] sm:pr-[35px] lg:pr-[70px] sm:border-r sm:border-[#E0E0E0] my-[20px]">
-                                            <img class="mb-[15px]" src="assets/images/icon/kitchen.png" width="31"
-                                                height="31" alt="icon">
-                                            <span>2 Kitchen</span>
-                                        </li>
-
-                                        <li class="my-[20px]">
-                                            <img class="mb-[15px]" src="assets/images/icon/garage.png" width="32"
-                                                height="32" alt="icon">
-                                            <span>3 Garage</span>
-                                        </li>
-
-                                    </ul>
-
-
+                                <div class="col-span-12 xl:col-span-10" style="margin-top:100px">
                                     <a href="{{ url('Contact-Us') }}"
                                         class="text-white text-base underline capitalize hover:text-secondary">Contact
                                         us</a>
@@ -188,8 +105,7 @@
 
                                 <div class="py-[20px] px-[20px] text-left">
                                     <h3><a href="#"
-                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Modular
-                                            Home.</a></h3>
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium"></a></h3>
                                 </div>
                             </div>
                         </div>
@@ -205,8 +121,7 @@
 
                                 <div class="py-[20px] px-[20px] text-left">
                                     <h3><a href="#"
-                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">SPANISH
-                                            VILLAS</a></h3>
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium"></a></h3>
                                 </div>
                             </div>
                         </div>
@@ -222,7 +137,7 @@
 
                                 <div class="py-[20px] px-[20px] text-left">
                                     <h3><a href="#"
-                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Bungalow.</a>
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium"></a>
                                     </h3>
                                 </div>
                             </div>
