@@ -94,19 +94,21 @@
             <div class="properties-slider">
                 <div class="swiper  -mx-[15px] -my-[60px] px-[15px] py-[60px]">
                     <div class="swiper-wrapper">
+                        <!-- swiper-slide start -->
                         <div class="swiper-slide">
                             <div
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
                                     <a href="#" class="block">
-                                        <img src="assets/images/properties/property4.jpg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                        <img src="assets/images/properties/GreenCity.jpg" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
                                     </a>
                                 </div>
 
                                 <div class="py-[20px] px-[20px] text-left">
                                     <h3><a href="#"
-                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium"></a></h3>
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Green
+                                            City.</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -115,14 +117,15 @@
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
                                     <a href="#" class="block">
-                                        <img src="assets/images/properties/property1.jpg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                        <img src="assets/images/properties/LibertyMarket.jpg" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
                                     </a>
                                 </div>
 
                                 <div class="py-[20px] px-[20px] text-left">
                                     <h3><a href="#"
-                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium"></a></h3>
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Liberty
+                                            Market.</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -131,18 +134,19 @@
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
                                     <a href="#" class="block">
-                                        <img src="assets/images/properties/property3.jpg" class="w-full h-full"
+                                        <img src="assets/images/properties/modernCity.jpg" class="w-full h-full"
                                             loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
                                     </a>
                                 </div>
 
                                 <div class="py-[20px] px-[20px] text-left">
                                     <h3><a href="#"
-                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium"></a>
-                                    </h3>
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Mannan
+                                            Town.</a></h3>
                                 </div>
                             </div>
                         </div>
+
                         <!-- swiper-slide end-->
                     </div>
                     <!-- Add Pagination -->
@@ -232,68 +236,26 @@
                 </div>
             </div>
 
-            <div class="properties-slider">
-                <div class="swiper  -mx-[15px] -my-[60px] px-[15px] py-[60px]">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div
-                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
-                                <div class="relative">
-                                    <a href="#" class="block">
-                                        <img src="assets/images/LaVista/img2.jpg" class="w-full h-full" loading="lazy"
-                                            width="370" height="266" alt="Sinomen Studio Palace.">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div
-                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
-                                <div class="relative">
-                                    <a href="#" class="block">
-                                        <img src="assets/images/LaVista/img3.jpg" class="w-full h-full" loading="lazy"
-                                            width="370" height="266" alt="Sinomen Studio Palace.">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div
-                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
-                                <div class="relative">
-                                    <a href="#" class="block">
-                                        <img src="assets/images/LaVista/img6.jpg" class="w-full h-full" loading="lazy"
-                                            width="370" height="266" alt="Sinomen Studio Palace.">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div
-                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
-                                <div class="relative">
-                                    <a href="#" class="block">
-                                        <img src="assets/images/LaVista/img8.jpg" class="w-full h-full" loading="lazy"
-                                            width="370" height="266" alt="Sinomen Studio Palace.">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div
-                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
-                                <div class="relative">
-                                    <a href="#" class="block">
-                                        <img src="assets/images/LaVista/img4.jpg" class="w-full h-full" loading="lazy"
-                                            width="370" height="266" alt="Sinomen Studio Palace.">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- swiper-slide end-->
+            <div class="spanishVilla">
+                <div class="col-6">
+                    <div class="content">
+                        The impeccably planned residential society of DHA Multan is undoubtedly a sight to behold. Presenting
+                        beautifully landscaped green spaces and an ultramodern infrastructure equipped with world-class
+                        amenities, this gated community has changed the urban landscape of the historic city. It has also become
+                        home to some noteworthy real estate developments in the region, including the state-of-the-art Al Mannan
+                        Spanish Villas.
+                        <br>
+                        Promising a comfortable yet elevated lifestyle in one of the most coveted enclaves of the metropolis,
+                        this high-end housing society is helmed by Al Mannan Builders. Moreover, it commands an iconic location
+                        near Clock Tower, also known as Times Square. It is also the first project in the region to offer
+                        artistically crafted Spanish villas on an attractive payment plan.
+
                     </div>
-                    <!-- Add Pagination -->
-                    <div class="swiper-pagination"></div>
+                </div>
+                <div class="col-6">
+                    <div class="villaImage">
+                        <img src="{{ asset('assets/images/hero/spanishVilla.jpeg') }}" alt="villa image">
+                    </div>
                 </div>
             </div>
 

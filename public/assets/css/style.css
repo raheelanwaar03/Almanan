@@ -6270,3 +6270,21 @@ input:focus {
     color: white;
 
 }
+.spanishVilla
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col-6
+{
+    width: 50%;
+}
+.villaImage
+{
+    border-radius: 20px;
+}
+.villaImage img
+{
+    border-radius: 20px;
+}
