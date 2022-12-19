@@ -42,3 +42,8 @@ Route::get('/Projects', function () {
 Route::get('/Videos', function () {
     return view('videoGellary');
 });
+
+
+Route::get('/SpanishVilla', function () {
+    return view('spanishVilla');
+});
