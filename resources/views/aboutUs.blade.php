@@ -23,11 +23,10 @@
         <div class="container">
             <div class="items-center">
                 <div class="lg:mb-[60px] mb-10 -mt-[150px]">
-                    <img class="mx-auto w-full" src="assets/images/about/about5.png" width="597" height="716"
-                        alt="about image">
+                    <img style="border-radius:150px" class="mx-auto w-full" src="assets/images/hero/property2.jpg"
+                        width="597" height="716" alt="about image">
                 </div>
                 <div class="max-w-[830px] mx-auto text-center">
-                    <span class="text-secondary text-tiny inline-block mb-2">Since 1975</span>
                     <h2
                         class="font-lora text-primary text-[24px] sm:text-[30px] leading-[1.3888] xl:text-[35px] capitalize mb-[30px] lg:mb-[50px] font-medium">
                         Our team is passionate about combining integrity with a dynamic approach to business and
@@ -124,7 +123,8 @@
                                         <ul>
                                             <li class="flex flex-wrap items-center justify-between mt-4">
                                                 <span
-                                                    class="font-lora text-[18px] leading-none capitalize text-secondary">Ali Haider</span>
+                                                    class="font-lora text-[18px] leading-none capitalize text-secondary">Ali
+                                                    Haider</span>
                                                 <span class="flex flex-wrap">
                                                     <span class="ml-[4px]">
                                                         <svg width="10" height="11" viewBox="0 0 10 11"

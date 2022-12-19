@@ -20,7 +20,7 @@
                     <div class="flex flex-col items-center justify-center mb-[50px]">
                         <span class="text-secondary text-tiny inline-block mb-2">Best Choice</span>
                         <h2 class="font-lora text-primary text-[24px] sm:text-[30px] xl:text-xl capitalize font-medium">
-                            Popular Properties<span class="text-secondary">.</span></h2>
+                            Popular Projects<span class="text-secondary">.</span></h2>
                     </div>
                 </div>
             </div>
@@ -131,7 +131,7 @@
                             <div class="flex-1">
                                 <h3 class="font-lora text-primary text-[22px] xl:text-lg capitalize mb-2">Prime
                                     Location</h3>
-                                <p class="max-w-[315px]">We will provide you your dream loction</p>
+                                <p class="max-w-[315px]">We will provide you dream location</p>
                             </div>
 
                         </div>
@@ -142,7 +142,7 @@
                                 <h3 class="font-lora text-primary text-[22px] xl:text-lg capitalize mb-2">
                                     Trusted by
                                     Thousand</h3>
-                                <p class="max-w-[315px]">We have thousand of happy client in our 25 years of experience</p>
+                                <p class="max-w-[315px]">We have thousand of happy client in our 15 years of experience</p>
                             </div>
 
                         </div>
@@ -273,7 +273,7 @@
                         </div>
                         <div class="relative lg:-mb-16">
                             <div class="scene" data-relative-input="true">
-                                <img data-depth="0.1" src="assets/images/video/video.png"
+                                <img data-depth="0.1" src="assets/images/hero/property2.jpg"
                                     class="rounded-[24px] max-w-full" loading="lazy" width="507" height="349"
                                     alt="video image">
                             </div>

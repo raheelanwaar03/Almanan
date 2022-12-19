@@ -9,8 +9,10 @@
                     <div class="max-w-[700px]  mx-auto text-center text-white relative z-[1]">
                         <div class="mb-5"><span class="text-base block">our new project</span></div>
                         <h1
-                            class="font-lora text-[32px] sm:text-[50px] md:text-[68px] lg:text-[50px] leading-tight xl:text-2xl font-medium">La Vista</h1>
-                        <p class="text-base mt-5 max-w-[500px] mx-auto text-center">La Vista is a project which we introduce for making your dream home</p>
+                            class="font-lora text-[32px] sm:text-[50px] md:text-[68px] lg:text-[50px] leading-tight xl:text-2xl font-medium">
+                            La Vista</h1>
+                        <p class="text-base mt-5 max-w-[500px] mx-auto text-center">La Vista is a project which we introduce
+                            for making your dream home</p>
                     </div>
                 </div>
             </div>
@@ -66,22 +68,24 @@
                             <span class="text-primary">50+</span>
                         </li>
                         <li class="m-[10px]">
-                            <span class="text-secondary block">Properties.</span>
-                            <span class="text-primary">Your Desired Properties</span>
+                            <span class="text-secondary block">Starting Price.</span>
+                            <span class="text-primary"><b>270,00,000 with instullments.</b></span>
                         </li>
                     </ul>
                 </div>
                 <div class="">
                     <h4 class="font-lora text-primary text-[24px] lg:text-[36px] mb-[10px]">Payment Quotation<span
                             class="text-secondary">.</span></h4>
-                            <ol>
-                                <li>1) 10 Marla Villas</li>
-                                <li>2) Booking starting from 8%</li>
-                                <li>3) 45 months installment plan</li>
-                                <li>4) 2 Years construction warranty</li>
-                                <li>5) 25 years banking financing facilities</li>
-                                <li>6) 1st time in DHA Multan with solar system</li>
-                            </ol>
+                    <ol>
+                        <b style="color: #B39359;font-size:20px">
+                            <li>1) 10 Marla Villas</li>
+                            <li>2) Booking starting from 8%</li>
+                            <li>3) 45 months installment plan</li>
+                            <li>4) 2 Years construction warranty</li>
+                            <li>5) 25 years banking financing facilities</li>
+                            <li>6) 1st time in DHA Multan with solar system</li>
+                        </b>
+                    </ol>
                     {{-- <span class="underline font-light block text-[18px] mb-[15px]"></span> --}}
                     <h4 class="font-lora text-primary text-[24px] lg:text-[36px] mb-[10px] mt-10">Rating<span
                             class="text-secondary">.</span></h4>
@@ -131,17 +135,16 @@
             </div>
         </div>
     </section>
+    {{-- advertisment --}}
 
-    <!-- Featured Properties Start -->
-
-    <section class="popular-properties py-[80px] lg:py-[125px]">
+    <section class="popular-properties">
         <div class="container">
             <div class="grid grid-cols-12">
                 <div class="col-span-12">
                     <div class="flex flex-col items-center justify-center mb-[50px]">
-                        <span class="text-secondary text-tiny inline-block mb-2">Best Choice</span>
+                        <span class="text-secondary text-tiny inline-block mb-2">Advertise Brochure</span>
                         <h2 class="font-lora text-primary text-[24px] sm:text-[30px] xl:text-xl capitalize font-medium">
-                            La Vista details<span class="text-secondary">.</span></h2>
+                            10 Marla La Vista Homes details<span class="text-secondary">.</span></h2>
                     </div>
                 </div>
             </div>
@@ -154,8 +157,134 @@
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
                                     <a href="#" class="block">
-                                        <img src="assets/images/interior/slide1.png" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                        <img src="assets/images/ads/img3.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/ads/img2.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/ads/img.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/ads/img4.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/ads/img5.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/ads/img6.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/ads/img7.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/ads/img8.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/ads/img9.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- swiper-slide end-->
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Featured Properties Start -->
+
+    <section class="popular-properties py-[80px] lg:py-[125px]">
+        <div class="container">
+            <div class="grid grid-cols-12">
+                <div class="col-span-12">
+                    <div class="flex flex-col items-center justify-center mb-[50px]">
+                        <span class="text-secondary text-tiny inline-block mb-2">Best Choice</span>
+                        <h2 class="font-lora text-primary text-[24px] sm:text-[30px] xl:text-xl capitalize font-medium">
+                            We Provide Interior Design service's<span class="text-secondary">.</span></h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="properties-slider">
+                <div class="swiper  -mx-[15px] -my-[60px] px-[15px] py-[60px]">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/interior/slide1.png" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
                                     </a>
                                 </div>
                             </div>
@@ -166,8 +295,8 @@
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
                                     <a href="#" class="block">
-                                        <img src="assets/images/interior/slide2.jpg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                        <img src="assets/images/interior/slide2.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
                                     </a>
                                 </div>
                             </div>
@@ -177,8 +306,8 @@
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
                                     <a href="#" class="block">
-                                        <img src="assets/images/interior/slide3.jpg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                        <img src="assets/images/interior/06.png" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
                                     </a>
                                 </div>
                             </div>
@@ -188,8 +317,8 @@
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
                                     <a href="#" class="block">
-                                        <img src="assets/images/interior/slide4.jpg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                        <img src="assets/images/interior/slide4.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
                                     </a>
                                 </div>
                             </div>
@@ -199,8 +328,8 @@
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
                                     <a href="#" class="block">
-                                        <img src="assets/images/interior/slide5.jpg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                        <img src="assets/images/interior/slide5.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
                                     </a>
                                 </div>
                             </div>
