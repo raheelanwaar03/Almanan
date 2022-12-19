@@ -155,7 +155,44 @@
     <!-- About Us Sectin End -->
 
     <!-- Featured Properties Start -->
-    <section class="popular-properties py-[80px] lg:py-[125px]">
+
+
+    <section class="about-section pt-10">
+        <div class="container">
+            <div class="grid grid-cols-12 gap-6 items-center">
+                <div class="col-span-12 lg:col-span-6">
+                    <span class="text-secondary text-tiny inline-block mb-2">Newly Added</span>
+                    <h2
+                        class="font-lora text-primary text-[24px] sm:text-[30px] leading-[1.277] xl:text-xl capitalize mb-5 lg:mb-16 font-medium max-w-[500px]">
+                        Our Moder work and techniques will impress you<span class="text-secondary">.</span>
+                    </h2>
+                    <div class="villaImage" data-relative-input="true">
+                        <img src="{{ asset('assets/images/hero/spanishVilla.jpeg') }}" alt="villa image">
+                    </div>
+                </div>
+                <div class="col-span-12 lg:col-span-6 lg:pl-[70px]" style="margin-top: 20px">
+                    <p class="max-w-[448px] "> The impeccably planned residential society of DHA Multan is undoubtedly a sight to behold.
+                        Presenting
+                        beautifully landscaped green spaces and an ultramodern infrastructure equipped with world-class
+                        amenities, this gated community has changed the urban landscape of the historic city. It has also
+                        become
+                        home to some noteworthy real estate developments in the region, including the state-of-the-art Al
+                        Mannan
+                        Spanish Villas.
+                        <br>
+                        Promising a comfortable yet elevated lifestyle in one of the most coveted enclaves of the
+                        metropolis,
+                        this high-end housing society is helmed by Al Mannan Builders. Moreover, it commands an iconic
+                        location
+                        near Clock Tower, also known as Times Square.</p>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    {{-- <section class="popular-properties py-[80px] lg:py-[125px]">
         <div class="container">
             <div class="grid grid-cols-12">
                 <div class="col-span-12" style="display: flex;justify-content:center;align-items:center;">
@@ -199,7 +236,7 @@
             </div>
 
         </div>
-    </section>
+    </section> --}}
 
     {{-- video section --}}
     <section class="video-section" style="margin-top:20px;margin-bottom:120px">
