@@ -32,29 +32,43 @@
         <!-- for Navigation -->
         <!-- Header start -->
 
-        <header id="sticky-header" class="absolute left-0 top-[15px] lg:top-[30px] xl:top-[40px] w-full z-10">
+
+        <header id="sticky-header" class="absolute left-0 top-[15px] lg:top-[30px] xl:top-[45px] w-full z-10">
             <div class="container">
                 <div class="grid grid-cols-12">
                     <div class="col-span-12">
                         <div class="flex flex-wrap items-center justify-between">
-                            <a href="{{ url('/') }}" class="block">
-                                <div style="display: flex;justify-content:center;align-items:center">
-                                    <img class="w-full h-full white-logo" src="assets/images/logo/Almanan1.png"
-                                        loading="lazy" width="99" height="46" alt="brand logo">
-                                    <img class="w-full h-full hidden dark-logo" src="assets/images/logo/Almanan1.png"
-                                        loading="lazy" width="99" height="46" alt="brand logo">
-                                </div>
+                            <a href="index.html" class="block">
+                                <img class="w-full h-full" src="assets/images/logo/Almanan1.png" loading="lazy"
+                                    width="99" height="46" alt="brand logo">
                             </a>
                             <nav class="flex flex-wrap items-center">
                                 <ul
                                     class="hidden lg:flex flex-wrap items-center font-lora text-[16px] xl:text-[18px] leading-none text-black">
-                                    <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
-                                        <a href="{{ url('/') }}"
-                                            class="sticky-dark transition-all text-white hover:text-secondary">Home</a>
-                                    </li>
-                                    <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
-                                        <a href="{{ url('/Projects') }}"
-                                            class="sticky-dark transition-all text-white hover:text-secondary">Projects</a>
+
+                                    <ul
+                                        class="hidden lg:flex flex-wrap items-center font-lora text-[16px] xl:text-[18px] leading-none text-black">
+                                        <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
+                                            <a href="{{ url('/') }}"
+                                                class="sticky-dark transition-all text-white hover:text-secondary">Home</a>
+                                        </li>
+                                        <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
+                                            <a href="{{ url('/Projects') }}"
+                                                class="sticky-dark transition-all text-white hover:text-secondary">Projects</a>
+
+                                            <ul
+                                                class="list-none z-[99] bg-white drop-shadow-[0px_6px_10px_rgba(0,0,0,0.2)] rounded-[12px] flex flex-wrap flex-col w-[220px] absolute top-[120%] left-1/2 -translate-x-1/2 transition-all
+                                          group-hover:top-[100%] invisible group-hover:visible opacity-0 group-hover:opacity-100
+
+                                                ">
+                                                <li
+                                                    class="border-b border-dashed border-primary border-opacity-40 last:border-b-0 hover:border-solid transition-all">
+                                                    <a href="index.html"
+                                                        class="font-lora leading-[1.571] text-[14px] text-primary p-[10px] capitalize block transition-all hover:bg-primary hover:text-white text-center my-[-1px] rounded-t-[12px]">Spanish
+                                                        Villa</a>
+                                                </li>
+                                        </li>
+                                    </ul>
                                     </li>
                                     <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
                                         <a href="{{ url('/About-Us') }}"
@@ -69,16 +83,18 @@
                                             class="sticky-dark transition-all text-white hover:text-secondary">Contact</a>
                                     </li>
                                 </ul>
+
+                                </ul>
                             </nav>
                         </div>
                     </div>
                 </div>
             </div>
         </header>
-
         <!-- offcanvas-overlay start -->
         <div class="offcanvas-overlay hidden fixed inset-0 bg-black opacity-50 z-50"></div>
         <!-- offcanvas-overlay end -->
+
         <!-- offcanvas-mobile-menu start -->
         <div id="offcanvas-mobile-menu"
             class="offcanvas left-0 transform -translate-x-full fixed font-normal text-sm top-0 z-50 h-screen xs:w-[300px] lg:w-[380px] transition-all ease-in-out duration-300 bg-white">
@@ -119,3 +135,4 @@
                 <!-- offcanvas-menu end -->
             </div>
         </div>
+

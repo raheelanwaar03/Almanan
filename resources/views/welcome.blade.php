@@ -154,7 +154,65 @@
     </section>
     <!-- About Us Sectin End -->
 
-    <!-- Featured Properties Start -->
+    <section class="popular-properties py-[80px] lg:py-[125px]">
+        <div class="container">
+            <div class="grid grid-cols-12">
+                <div class="col-span-12">
+                    <div class="flex flex-col items-center justify-center mb-[50px]">
+                        <img src="{{ asset('assets/images/logo/2.png') }}" alt="">
+                        <h2 class="font-lora text-primary text-[24px] sm:text-[30px] xl:text-xl capitalize font-medium">
+                            DHA collaboration with Almannan Buliders<span class="text-secondary">.</span></h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="properties-slider">
+                <div class="swiper  -mx-[15px] -my-[60px] px-[15px] py-[60px]">
+                    <div class="swiper-wrapper">
+                        <!-- swiper-slide start -->
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/team/team1.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Ruposibangla de parlosia.">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/team/team2.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Ruposibangla de parlosia.">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/team/team3.jpg" class="w-full h-full" loading="lazy"
+                                            width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- swiper-slide end-->
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+
+        </div>
+    </section>
 
 
     <section class="about-section pt-10">
@@ -171,7 +229,8 @@
                     </div>
                 </div>
                 <div class="col-span-12 lg:col-span-6 lg:pl-[70px]" style="margin-top: 20px">
-                    <p class="max-w-[448px] "> The impeccably planned residential society of DHA Multan is undoubtedly a sight to behold.
+                    <p class="max-w-[448px] "> The impeccably planned residential society of DHA Multan is undoubtedly a
+                        sight to behold.
                         Presenting
                         beautifully landscaped green spaces and an ultramodern infrastructure equipped with world-class
                         amenities, this gated community has changed the urban landscape of the historic city. It has also
@@ -184,59 +243,13 @@
                         metropolis,
                         this high-end housing society is helmed by Al Mannan Builders. Moreover, it commands an iconic
                         location
-                        near Clock Tower, also known as Times Square.</p>
+                        near Clock Tower, also known as Times Square.
+                    </p>
 
                 </div>
             </div>
         </div>
     </section>
-
-
-    {{-- <section class="popular-properties py-[80px] lg:py-[125px]">
-        <div class="container">
-            <div class="grid grid-cols-12">
-                <div class="col-span-12" style="display: flex;justify-content:center;align-items:center;">
-                    <div class="flex flex-col items-center justify-center mb-[50px]">
-                        <span class="text-secondary text-tiny inline-block mb-2">Newly Added</span>
-                        <h2 class="font-lora text-primary text-[24px] sm:text-[30px] xl:text-xl capitalize font-medium">
-                            Our New Project<span class="text-secondary">.</span></h2>
-                    </div>
-                    <div style="margin-left: 20px">
-                        <img src="{{ asset('assets/images/logo/LaVista.png') }}" alt="">
-                    </div>
-                </div>
-            </div>
-
-            <div class="spanishVilla">
-                <div class="col-6">
-                    <div class="contentVilla">
-                        The impeccably planned residential society of DHA Multan is undoubtedly a sight to behold.
-                        Presenting
-                        beautifully landscaped green spaces and an ultramodern infrastructure equipped with world-class
-                        amenities, this gated community has changed the urban landscape of the historic city. It has also
-                        become
-                        home to some noteworthy real estate developments in the region, including the state-of-the-art Al
-                        Mannan
-                        Spanish Villas.
-                        <br>
-                        Promising a comfortable yet elevated lifestyle in one of the most coveted enclaves of the
-                        metropolis,
-                        this high-end housing society is helmed by Al Mannan Builders. Moreover, it commands an iconic
-                        location
-                        near Clock Tower, also known as Times Square. It is also the first project in the region to offer
-                        artistically crafted Spanish villas on an attractive payment plan.
-
-                    </div>
-                </div>
-                <div class="col-6">
-                    <div class="villaImage">
-                        <img src="{{ asset('assets/images/hero/spanishVilla.jpeg') }}" alt="villa image">
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </section> --}}
 
     {{-- video section --}}
     <section class="video-section" style="margin-top:20px;margin-bottom:120px">
@@ -522,7 +535,7 @@
 
                                 <div class="pl-[50px] xl:pl-[150px]">
                                     <div class="inline-block relative bg-primary text-primary rounded-[30px] z-10">
-                                        <img src="assets/images/testimonial/person2.png"
+                                        <img src="assets/images/testimonial/aaa.png"
                                             class="w-auto h-auto block mx-auto relative z-[2] thumb" loading="lazy"
                                             width="402" height="505" alt="Oliver Stephen">
                                         <img class="absolute left-[0px] top-0 z-[1]"
@@ -626,7 +639,7 @@
 
                                 <div class="pl-[50px] xl:pl-[150px]">
                                     <div class="inline-block relative bg-primary text-primary rounded-[30px] z-10">
-                                        <img src="assets/images/testimonial/person4.png"
+                                        <img src="assets/images/testimonial/person2.png"
                                             class="w-auto h-auto block mx-auto relative z-[2] thumb" loading="lazy"
                                             width="402" height="505" alt="Sun Francisco">
                                         <img class="absolute left-[0px] top-0 z-[1]"
