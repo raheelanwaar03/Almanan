@@ -4,76 +4,10 @@
     <section class="hero-section bg-white">
         <div class="hero-slider2 overflow-hidden">
             <div class="swiper">
-                <div class="swiper-wrapper">
-                    <!-- swiper-slide start -->
-                    <div class="swiper-slide bg-no-repeat bg-left-bottom bg-sky-100 z-[1] relative before:absolute before:w-full before:h-full before:inset-0 before:content-[''] before:bg-[#fff] before:opacity-[75%] before:z-[-1] py-[80px] lg:py-[125px]"
-                        style="background-image: url('assets/images/hero/property1.jpg');">
-                        <div class="container">
-                            <div class="grid grid-cols-12">
-                                <div class="col-span-12">
-                                    <div class="slider-content">
-                                        <div style="margin-top:50px;">
-                                        </div>
-                                        <h1
-                                            class="font-lora text-white text-[26px] sm:text-[60px] md:text-[68px] lg:text-[50px] leading-tight xl:text-2xl title">
-                                            <span>MODERN VILLAS</span>
-                                        </h1>
-
-                                        <p class="text-base text-white font-light text">
-                                            We design and build exclusive 10 Marla Modern Villas with lavish quality and
-                                            best designs in DHA Multan. <br> Get the best of accommodation, relaxation and
-                                            property investment made possible at one place. <br> Enjoy the luxury of endless
-                                            opportunities with the new construction Project of Al Mannan Builders.
-                                        </p>
-                                    </div>
-                                </div>
-
-                                <div class="col-span-12 xl:col-span-10" style="margin-top:50px">
-                                    <a href="{{ url('Contact-Us') }}"
-                                        class="text-white text-base underline capitalize hover:text-secondary">Contact
-                                        us</a>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                    <!-- swiper-slide end-->
-                    <!-- swiper-slide start -->
-                    <div class="swiper-slide bg-no-repeat bg-left-bottom bg-sky-100 z-[1] relative before:absolute before:w-full before:h-full before:inset-0 before:content-[''] before:bg-[#fff] before:opacity-[75%] before:z-[-1] py-[80px] lg:py-[125px]"
-                        style="background-image: url('assets/images/hero/property2.jpg');">
-                        <div class="container">
-                            <div class="grid grid-cols-12">
-                                <div class="col-span-12">
-                                    <div class="slider-content">
-                                        <div style="margin-top:50px;">
-                                        </div>
-                                        <h1
-                                            class="font-lora text-white text-[36px] sm:text-[50px] md:text-[68px] lg:text-[50px] leading-tight xl:text-2xl title">
-                                            <span>SPANISH VILLAS</span>
-                                        </h1>
-
-                                        <p class="text-base text-white font-light text">
-                                            Join us for the grand release of DHA Multan's newest community of 10 marla,
-                                            Spanish Villa. <br> Its exclusive design and stunning location will redefine
-                                            your
-                                            idea of luxury living. <br> We've got best designs at the best prices.
-                                        </p>
-                                    </div>
-                                </div>
-
-                                <div class="col-span-12 xl:col-span-10" style="margin-top:50px">
-                                    <a href="{{ url('Contact-Us') }}"
-                                        class="text-white text-base underline capitalize hover:text-secondary">Contact
-                                        us</a>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                    <!-- swiper-slide end-->
-                </div>
-                <!-- Add Pagination -->
-                <div class="swiper-pagination home-pagination-six hidden lg:flex flex-wrap flex-col items-end"></div>
+                <video autoplay muted loop id="myVideo">
+                    <source src="assets/images/ModernVillas.mp4" type="video/mp4">
+                    Your browser does not support HTML5 video.
+                </video>
             </div>
         </div>
     </section>
@@ -182,8 +116,8 @@
 
                     <div class="-mb-10 mt-12 xl:mt-[70px] 2xl:mt-[100px]">
                         <div class="flex flex-wrap mb-5 lg:mb-10">
-                            <img src="assets/images/icon/doller.png" class="self-start mr-5" loading="lazy"
-                                width="50" height="50" alt="about Image">
+                            <img src="assets/images/icon/doller.png" class="self-start mr-5" loading="lazy" width="50"
+                                height="50" alt="about Image">
                             <div class="flex-1">
                                 <h3 class="font-lora text-primary text-[22px] xl:text-lg capitalize mb-2">Budget
                                     Friendly</h3>
@@ -192,8 +126,8 @@
 
                         </div>
                         <div class="flex flex-wrap mb-5 lg:mb-10">
-                            <img src="assets/images/icon/location.png" class="self-start mr-5" loading="lazy"
-                                width="50" height="50" alt="about Image">
+                            <img src="assets/images/icon/location.png" class="self-start mr-5" loading="lazy" width="50"
+                                height="50" alt="about Image">
                             <div class="flex-1">
                                 <h3 class="font-lora text-primary text-[22px] xl:text-lg capitalize mb-2">Prime
                                     Location</h3>
@@ -238,15 +172,20 @@
 
             <div class="spanishVilla">
                 <div class="col-6">
-                    <div class="content">
-                        The impeccably planned residential society of DHA Multan is undoubtedly a sight to behold. Presenting
+                    <div class="contentVilla">
+                        The impeccably planned residential society of DHA Multan is undoubtedly a sight to behold.
+                        Presenting
                         beautifully landscaped green spaces and an ultramodern infrastructure equipped with world-class
-                        amenities, this gated community has changed the urban landscape of the historic city. It has also become
-                        home to some noteworthy real estate developments in the region, including the state-of-the-art Al Mannan
+                        amenities, this gated community has changed the urban landscape of the historic city. It has also
+                        become
+                        home to some noteworthy real estate developments in the region, including the state-of-the-art Al
+                        Mannan
                         Spanish Villas.
                         <br>
-                        Promising a comfortable yet elevated lifestyle in one of the most coveted enclaves of the metropolis,
-                        this high-end housing society is helmed by Al Mannan Builders. Moreover, it commands an iconic location
+                        Promising a comfortable yet elevated lifestyle in one of the most coveted enclaves of the
+                        metropolis,
+                        this high-end housing society is helmed by Al Mannan Builders. Moreover, it commands an iconic
+                        location
                         near Clock Tower, also known as Times Square. It is also the first project in the region to offer
                         artistically crafted Spanish villas on an attractive payment plan.
 
@@ -274,7 +213,8 @@
                             class="font-lora text-white text-[24px] sm:text-[30px] leading-[1.277] xl:text-xl mb-[10px] font-medium">
                             Watch the video for taking your decision easily<span class="text-secondary">.</span>
                         </h2>
-                        <a href="#" class="flex flex-wrap items-center text-secondary text-tiny mt-[20px]">View
+                        <a href="{{ url('/Videos') }}"
+                            class="flex flex-wrap items-center text-secondary text-tiny mt-[20px]">View
                             all
                             <svg class="ml-[10px]" width="26" height="11" viewBox="0 0 26 11"
                                 fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -302,10 +242,10 @@
                             </div>
                             <a href="https://youtu.be/E-AIG_CIzOE"
                                 class="play-button bg-white text-white hover:text-primary absolute left-0 right-0 mx-auto top-1/2 -translate-y-1/2 hover:scale-105 hover:bg-primary w-[55px] h-[55px] flex
-            flex-wrap z-[1] items-center justify-center opacity-100 shadow-[0px 4px 4px rgba(0, 0, 0, 0.25)] transition-all rounded-full group
+                                  flex-wrap z-[1] items-center justify-center opacity-100 shadow-[0px 4px 4px rgba(0, 0, 0, 0.25)] transition-all rounded-full group
 
-            before:block before:absolute  before:bg-white before:opacity-80 before:shadow-[0px 4px 4px rgba(0, 0, 0, 0.25)] hover:before:bg-primary hover:before:opacity-80 before:w-[70px] before:h-[70px] before:rounded-full before:z-[-1]
-            "
+                                   before:block before:absolute  before:bg-white before:opacity-80 before:shadow-[0px 4px 4px rgba(0, 0, 0, 0.25)] hover:before:bg-primary hover:before:opacity-80 before:w-[70px] before:h-[70px] before:rounded-full before:z-[-1]
+                                   "
                                 aria-label="play button">
                                 <svg width="21" height="22" viewBox="0 0 21 22" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
@@ -869,46 +809,4 @@
             </div>
         </div>
     </section>
-
-    <!-- News Letter section start -->
-    {{-- <section class="py-[80px] lg:p-[90px] bg-primary relative">
-        <div class="container">
-            <div class="grid grid-cols-1">
-                <div class="col-span">
-                    <div class="flex flex-wrap items-center justify-between">
-                        <div class="w-full lg:w-auto">
-                            <h3
-                                class="font-lora text-white text-[24px] sm:text-[30px] xl:text-[36px] leading-[1.277] mb-[10px]">
-                                Are you a Home Owner?</h3>
-                            <p class="text-secondary leading-[1.5] tracking-[0.03em] mb-10">Put your email address
-                                and get listed.</p>
-                            <form id="mc-form" action="#" class="relative w-full">
-                                <input id="mc-email"
-                                    class="font-light text-white leading-[1.75] opacity-100 border border-secondary w-full lg:w-[395px] xl:w-[495px] h-[60px] rounded-[10px] py-[15px] pl-[15px] pr-[15px] sm:pr-[135px] focus:border-white focus:outline-none border-opacity-60 placeholder:text-[#E2E2E2] bg-transparent"
-                                    type="text" placeholder="Enter your email here...">
-                                <button id="mc-submit" type="submit"
-                                    class="text-white font-medium text-[16px] leading-none tracking-[0.02em] bg-secondary py-[17px] px-[20px] mt-5 sm:mt-0 rounded-[10px] hover:bg-white hover:text-primary transition-all sm:absolute sm:right-[4px] sm:top-1/2 sm:-translate-y-1/2">Get
-                                    Listed</button>
-                            </form>
-                            <!-- mailchimp-alerts Start -->
-                            <div class="mailchimp-alerts text-centre">
-                                <div class="mailchimp-submitting"></div><!-- mailchimp-submitting end -->
-                                <div class="mailchimp-success text-green-400"></div><!-- mailchimp-success end -->
-                                <div class="mailchimp-error text-red-600"></div><!-- mailchimp-error end -->
-                            </div>
-                            <!-- mailchimp-alerts end -->
-                        </div>
-                        <div class="w-full hidden lg:block lg:w-auto mt-5 lg:mt-0">
-                            <div class="relative mt-10 md:mt-0 lg:absolute lg:right-0 lg:bottom-0">
-                                <img class="hero_image lg:max-w-[550px] xl:max-w-[650px] 2xl:max-w-[714px]"
-                                    src="assets/images/newsletter/bg-1.png" width="866" height="879"
-                                    alt="hero image">
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section> --}}
 @endsection

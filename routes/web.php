@@ -37,3 +37,8 @@ Route::get('/Services', function () {
 Route::get('/Projects', function () {
     return view('projects');
 });
+
+
+Route::get('/Videos', function () {
+    return view('videoGellary');
+});
