@@ -99,59 +99,59 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-[30px]">
                 <div class="relative group">
                     <a href="#" class="block">
-                        <img src="assets/images/service/service1.png"
+                        <img src="assets/images/service/service2.png"
                             class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
                             height="290" alt="Sale Property">
                         <div
                             class="drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] hover:drop-shadow-[0px_8px_20px_rgba(0,0,0,0.15)] bg-[#FFFDFC] rounded-[0px_0px_6px_6px] px-[25px] py-[25px]">
                             <h3
                                 class="font-lora font-normal text-[24px] xl:text-lg text-primary group-hover:text-secondary transition-all mb-[5px]">
-                                Sale Property<span class="text-secondary group-hover:text-primary">.</span> </h3>
-                            <p class="font-light text-tiny">Provide prorpery Sale options opportunity to find the best </p>
+                                Sale & Buy<span class="text-secondary group-hover:text-primary">.</span> </h3>
+                            <p class="font-light text-tiny">We are provide you Sale & Buy opportunities</p>
                         </div>
                     </a>
                 </div>
                 <div class="relative group">
                     <a href="#" class="block">
-                        <img src="assets/images/service/service2.png"
+                        <img src="assets/images/service/architecture.jpg"
                             class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
                             height="290" alt="Buy Property">
                         <div
                             class="drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] hover:drop-shadow-[0px_8px_20px_rgba(0,0,0,0.15)] bg-[#FFFDFC] rounded-[0px_0px_6px_6px] px-[25px] py-[25px]">
                             <h3
                                 class="font-lora font-normal text-[24px] xl:text-lg text-primary group-hover:text-secondary transition-all mb-[5px]">
-                                Buy Property<span class="text-secondary group-hover:text-primary">.</span> </h3>
-                            <p class="font-light text-tiny">Provide prorpery buy options opportunity to find the best </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="relative group">
-                    <a href="#" class="block">
-                        <img src="assets/images/service/service3.png"
-                            class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
-                            height="290" alt="Rent Property">
-                        <div
-                            class="drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] hover:drop-shadow-[0px_8px_20px_rgba(0,0,0,0.15)] bg-[#FFFDFC] rounded-[0px_0px_6px_6px] px-[25px] py-[25px]">
-                            <h3
-                                class="font-lora font-normal text-[24px] xl:text-lg text-primary group-hover:text-secondary transition-all mb-[5px]">
-                                Rent Property<span class="text-secondary group-hover:text-primary">.</span> </h3>
-                            <p class="font-light text-tiny">Provide prorpery rent options opportunity to find the best </p>
+                                Architecture<span class="text-secondary group-hover:text-primary">.</span> </h3>
+                            <p class="font-light text-tiny">We will help you with architecture solutions</p>
                         </div>
                     </a>
                 </div>
                 <div class="relative group">
                     <a href="#" class="block">
                         <img src="assets/images/service/slide1.png"
-                            class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
-                            height="290" alt="Mortgage">
+                        class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
+                        height="290" alt="Mortgage">
                         <div
-                            class="drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] hover:drop-shadow-[0px_8px_20px_rgba(0,0,0,0.15)] bg-[#FFFDFC] rounded-[0px_0px_6px_6px] px-[25px] py-[25px]">
-                            <h3
+                        class="drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] hover:drop-shadow-[0px_8px_20px_rgba(0,0,0,0.15)] bg-[#FFFDFC] rounded-[0px_0px_6px_6px] px-[25px] py-[25px]">
+                        <h3
                                 class="font-lora font-normal text-[24px] xl:text-lg text-primary group-hover:text-secondary transition-all mb-[5px]">
                                 Interior Design<span class="text-secondary group-hover:text-primary">.</span> </h3>
-                            <p class="font-light text-tiny">Interior designing options to make eye-catching design.</p>
-                        </div>
-                    </a>
+                                <p class="font-light text-tiny">Interior designing options to make eye-catching design.</p>
+                            </div>
+                        </a>
+                </div>
+                <div class="relative group">
+                        <a href="#" class="block">
+                            <img src="assets/images/service/services.jpg"
+                                class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
+                                height="290" alt="Rent Property">
+                            <div
+                                class="drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] hover:drop-shadow-[0px_8px_20px_rgba(0,0,0,0.15)] bg-[#FFFDFC] rounded-[0px_0px_6px_6px] px-[25px] py-[25px]">
+                                <h3
+                                    class="font-lora font-normal text-[24px] xl:text-lg text-primary group-hover:text-secondary transition-all mb-[5px]">
+                                   All in One <span class="text-secondary group-hover:text-primary">.</span></h3>
+                                <p class="font-light text-tiny">We will help you in every field to establish your dream home</p>
+                            </div>
+                        </a>
                 </div>
             </div>
         </div>
