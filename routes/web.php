@@ -34,7 +34,7 @@ Route::get('/Services', function () {
 });
 
 
-Route::get('/Projects', function () {
+Route::get('/LaVistaHomes', function () {
     return view('projects');
 });
 
@@ -46,4 +46,17 @@ Route::get('/Videos', function () {
 
 Route::get('/SpanishVilla', function () {
     return view('spanishVilla');
+});
+
+
+Route::get('/LebertyMarket', function () {
+    return view('lebertyMarket');
+});
+
+Route::get('/GreenLand', function () {
+    return view('greenLand');
+});
+
+Route::get('/MannanTown', function () {
+    return view('mannanTown');
 });

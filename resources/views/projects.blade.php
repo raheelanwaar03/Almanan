@@ -76,15 +76,17 @@
                 <div class="">
                     <h4 class="font-lora text-primary text-[24px] lg:text-[36px] mb-[10px]">Payment Quotation<span
                             class="text-secondary">.</span></h4>
-                    <ol>
+                    <ol class="liststyle">
+                        <u style="color: #B39359">
                         <b style="color: #B39359;font-size:20px">
-                            <li>1) 10 Marla Villas</li>
-                            <li>2) Booking starting from 8%</li>
-                            <li>3) 45 months installment plan</li>
-                            <li>4) 2 Years construction warranty</li>
-                            <li>5) 25 years banking financing facilities</li>
-                            <li>6) 1st time in DHA Multan with solar system</li>
+                            <li>10 Marla Villas</li>
+                            <li>Booking starting from 8%</li>
+                            <li>45 months installment plan</li>
+                            <li>2 Years construction warranty</li>
+                            <li>25 years banking financing facilities</li>
+                            <li>1st time in DHA Multan with solar system</li>
                         </b>
+                    </u>
                     </ol>
                     {{-- <span class="underline font-light block text-[18px] mb-[15px]"></span> --}}
                     <h4 class="font-lora text-primary text-[24px] lg:text-[36px] mb-[10px] mt-10">Rating<span
