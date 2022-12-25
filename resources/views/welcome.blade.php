@@ -108,11 +108,12 @@
                     </div>
                 </div>
                 <div class="col-span-12 lg:col-span-6 lg:pl-[70px]">
-                    <p class="max-w-[448px] ">Our team is passionate about combining integrity with a dynamic
+                    <p class="max-w-[448px]" style="font-family: romanian">
+                        <b> Our team is passionate about combining integrity with a dynamic
                         approach to business and ensures comprehensive service is tailored for every client's
                         specific requirements, both locally and internationally. We are committed to understanding
                         clients' needs so that they can provide confidential guidance and expertise on every aspect
-                        of buying and selling property.</p>
+                        of buying and selling property </b>.</p>
 
                     <div class="-mb-10 mt-12 xl:mt-[70px] 2xl:mt-[100px]">
                         <div class="flex flex-wrap mb-5 lg:mb-10">
@@ -156,12 +157,12 @@
 
     <section class="popular-properties py-[80px] lg:py-[125px]">
         <div class="container">
+            <div class="logosStyle">
+                <img src="{{ asset('assets/images/logo/2.png') }}" alt="">
+                <img src="{{ asset('assets/images/logo/LogoLavista.png') }}" alt="Lavista">
+            </div>
             <div class="grid grid-cols-12">
                 <div class="col-span-12">
-                    <div class="mb-[50px] " style="display: flex;justify-content:around;align-itmes:center;">
-                        <img src="{{ asset('assets/images/logo/2.png') }}" alt="">
-                        <img src="{{ asset('assets/images/logo/LaVista.png') }}" alt="Lavista">
-                    </div>
                     <div class="flex flex-col items-center justify-center mb-[50px]">
                         <h2
                             class="font-lora text-primary text-[24px] sm:text-[30px] xl:text-xl capitalize underline font-medium">

@@ -48,49 +48,17 @@
                             discount on full upfront payment and a 5% discount on half payment.</p>
                     </div>
 
-                    <div
-                        class="xl:flex xl:flex-nowrap xl:justify-between gap-y-[30px] gap-x-[15px] xl:gap-x-[0px] mb-[30px] items-center">
-                        <div class="grid grid-cols-12 gap-y-[30px] gap-x-[15px] xl:gap-x-[20px] xl:mr-[30px]">
-                            <div class="col-span-7">
-                                <a href="assets/images/properties-details/gallery/01.png" class="gallery-image">
-                                    <img class="object-cover rounded-[8px] w-full h-full"
-                                        src="assets/images/properties-details/01.png" alt="gallery image" loading="lazy"
-                                        width="270" height="187">
-                                </a>
-                            </div>
-                            <div class="col-span-5">
-                                <a href="assets/images/properties-details/gallery/03.png" class="gallery-image">
-                                    <img class="object-cover rounded-[8px] w-full h-full"
-                                        src="assets/images/properties-details/03.png" alt="gallery image" loading="lazy"
-                                        width="170" height="187">
-                                </a>
-                            </div>
-                            <div class="col-span-5">
-                                <a href="assets/images/properties-details/gallery/07.png" class="gallery-image">
-                                    <img class="object-cover rounded-[8px] w-full h-full"
-                                        src="assets/images/properties-details/07.png" alt="gallery image" loading="lazy"
-                                        width="170" height="187">
-                                </a>
-                            </div>
-                            <div class="col-span-7">
-                                <a href="assets/images/properties-details/gallery/05.png" class="gallery-image">
-                                    <img class="object-cover rounded-[8px] w-full h-full"
-                                        src="assets/images/properties-details/05.png" alt="gallery image" loading="lazy"
-                                        width="270" height="187">
-                                </a>
-                            </div>
-                        </div>
-                        <p class="xl:max-w-[270px] mt-7 xl:mt-0 text-[16px] leading-[2] font-normal">Buying property in Al
-                            Mannan Spanish Villas could be a profitable decision for those planning to expand their real
-                            estate investment portfolio while enjoying substantial capital gains. It is a venture of Al
-                            Mannan Builders, a reliable construction and development firm that has built a reputation for
-                            delivering successful projects.</p>
+                    <div class="spanishVideo">
+                        <video autoplay muted loop id="myVideo">
+                            <source src="assets/images/video/spanish.mp4" type="video/mp4">
+                            Your browser does not support HTML5 video.
+                        </video>
                     </div>
 
                     <blockquote class="italic text-secondary leading-[2] mb-[25px]">
                         “We will Provide you which we admited.”
                     </blockquote>
-                    <h1>AN UNPARALLELED LOCATION IN DHA MULTAN</h1>
+                    <h1 class="underline"><b>AN UNPARALLELED LOCATION IN DHA MULTAN</b></h1>
                     <p>
                         The strategic location of Al Mannan Spanish Villas at the intersection of different sectors in DHA
                         Multan is one of its most attractive features.

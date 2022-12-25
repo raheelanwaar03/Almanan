@@ -76,6 +76,15 @@
                     </li>
                 </ul>
             </div>
+            <div class="col-span-12 sm:col-span-6 lg:col-span- mb-[30px]">
+                <h3 class="font-lora font-normal text-[22px] leading-[1.222] text-primary mb-[20px] lg:mb-[30px]">
+                    CEO Massage<span class="text-secondary">.</span></h3>
+                <p>
+                    As I reflect on Almannan builders as a Companyis growth and achievements over the last decade.
+                    I am extremely proud of what we have accomplished and raised public awareness about what true luxury living is according
+                    to International standards.
+                </p>
+            </div>
         </div>
     </div>
 </footer>
