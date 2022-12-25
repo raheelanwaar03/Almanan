@@ -124,7 +124,7 @@
                                 about its payment plan, please fill out the green-and-white form attached to this blog so
                                 our representatives can contact you.
                                 In the meantime, if you have any suggestions or feedback for us, feel free to drop us a
-                                message at blog@zameen.com.
+                                message at builderssalmannan@gmail.com.
                                 Also, for the latest updates on Al Mannan Spanish Villas in DHA Multan, stay connected to
                                 Zameen Blog – the best real estate blog in Pakistan.
                             </p>

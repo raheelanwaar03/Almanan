@@ -2,7 +2,7 @@
 @section('content')
     <section
         class="bg-no-repeat bg-center bg-cover bg-[#FFF6F0] h-[350px] lg:h-[513px] flex flex-wrap items-center relative before:absolute before:inset-0 before:content-[''] before:bg-[#000000] before:opacity-[70%]"
-        style="background-image: url('assets/images/breadcrumb/bg-1.png');">
+        style="background-image: url('assets/images/breadcrumb/bg.webp');">
         <div class="container">
             <div class="grid grid-cols-12">
                 <div class="col-span-12">
@@ -84,78 +84,166 @@
         </div>
     </section>
 
-    <section class="pt-[80px] pb-[120px] lg:py-[120px]">
+    {{-- start --}}
+
+    <section class="popular-properties py-[80px] lg:py-[125px]">
         <div class="container">
             <div class="grid grid-cols-12">
                 <div class="col-span-12">
-                    <div class="mb-[30px] lg:mb-[60px] text-center">
-                        <span class="text-secondary text-tiny inline-block mb-2">Our Services</span>
-                        <h2 class="font-lora text-primary text-[24px] sm:text-[30px] xl:text-xl font-medium">
-                            Services that we Provide<span class="text-secondary">.</span></h2>
+                    <h1 style="text-align: center;color:#b39359"><b>Our Service's</b></h1>
+                    <div class="flex flex-col items-center justify-center mb-[50px]">
+                        <h2 class="font-lora text-primary text-[24px] sm:text-[30px] xl:text-xl capitalize font-medium">
+                            Our 360<span>°</span> Approach<span class="text-secondary">.</span></h2>
                     </div>
                 </div>
             </div>
-
-            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-[30px]">
-                <div class="relative group">
-                    <a href="#" class="block">
-                        <img src="assets/images/service/service2.png"
-                            class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
-                            height="290" alt="Sale Property">
-                        <div
-                            class="drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] hover:drop-shadow-[0px_8px_20px_rgba(0,0,0,0.15)] bg-[#FFFDFC] rounded-[0px_0px_6px_6px] px-[25px] py-[25px]">
-                            <h3
-                                class="font-lora font-normal text-[24px] xl:text-lg text-primary group-hover:text-secondary transition-all mb-[5px]">
-                                Sale & Buy<span class="text-secondary group-hover:text-primary">.</span> </h3>
-                            <p class="font-light text-tiny">We are provide you Sale & Buy opportunities</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="relative group">
-                    <a href="#" class="block">
-                        <img src="assets/images/service/architecture.jpg"
-                            class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
-                            height="290" alt="Buy Property">
-                        <div
-                            class="drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] hover:drop-shadow-[0px_8px_20px_rgba(0,0,0,0.15)] bg-[#FFFDFC] rounded-[0px_0px_6px_6px] px-[25px] py-[25px]">
-                            <h3
-                                class="font-lora font-normal text-[24px] xl:text-lg text-primary group-hover:text-secondary transition-all mb-[5px]">
-                                Architecture<span class="text-secondary group-hover:text-primary">.</span> </h3>
-                            <p class="font-light text-tiny">We will help you with architecture solutions</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="relative group">
-                    <a href="#" class="block">
-                        <img src="assets/images/service/slide1.png"
-                        class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
-                        height="290" alt="Mortgage">
-                        <div
-                        class="drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] hover:drop-shadow-[0px_8px_20px_rgba(0,0,0,0.15)] bg-[#FFFDFC] rounded-[0px_0px_6px_6px] px-[25px] py-[25px]">
-                        <h3
-                                class="font-lora font-normal text-[24px] xl:text-lg text-primary group-hover:text-secondary transition-all mb-[5px]">
-                                Interior Design<span class="text-secondary group-hover:text-primary">.</span> </h3>
-                                <p class="font-light text-tiny">Interior designing options to make eye-catching design.</p>
-                            </div>
-                        </a>
-                </div>
-                <div class="relative group">
-                        <a href="#" class="block">
-                            <img src="assets/images/service/services.jpg"
-                                class="w-full h-full block mx-auto rounded-[6px_6px_0px_0px]" loading="lazy" width="270"
-                                height="290" alt="Rent Property">
+            <div class="properties-slider">
+                <div class="swiper  -mx-[15px] -my-[60px] px-[15px] py-[60px]">
+                    <div class="swiper-wrapper">
+                        <!-- swiper-slide start -->
+                        <div class="swiper-slide">
                             <div
-                                class="drop-shadow-[0px_2px_15px_rgba(0,0,0,0.1)] hover:drop-shadow-[0px_8px_20px_rgba(0,0,0,0.15)] bg-[#FFFDFC] rounded-[0px_0px_6px_6px] px-[25px] py-[25px]">
-                                <h3
-                                    class="font-lora font-normal text-[24px] xl:text-lg text-primary group-hover:text-secondary transition-all mb-[5px]">
-                                   All in One <span class="text-secondary group-hover:text-primary">.</span></h3>
-                                <p class="font-light text-tiny">We will help you in every field to establish your dream home</p>
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/service/service4.png" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Site
+                                            Selection & Land Acquisition.</a></h3>
+                                </div>
                             </div>
-                        </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/service/architecture.jpg" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Architecture Solutions.</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/service/services.jpg" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Interior & Exterior Designing.</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/service/commercial.png" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Commercial Spaces.</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/service/Resedential.png" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Resedential Construction.</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/service/Portfolio.png" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Property & Portfolio Management.</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/service/marketing.png" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Marketing Services.</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/service/plots.png" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Houses & Plots On Installments.</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- swiper-slide end-->
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
                 </div>
             </div>
+
         </div>
     </section>
+
+    {{-- end --}}
+
+    {{-- our agents --}}
+
     <section class="team-section my-5 pb-[80px] lg:pb-[125px] overflow-hidden">
         <div class="container">
             <div class="grid sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-4 gap-x-5 md:gap-x-[30px] mb-[-30px]">

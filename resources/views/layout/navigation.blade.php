@@ -78,7 +78,7 @@
                                                 <li
                                                     class="border-b border-dashed border-primary border-opacity-40 last:border-b-0 hover:border-solid transition-all">
                                                     <a href="{{ url('/MannanTown') }}"
-                                                        class="font-lora leading-[1.571] text-[14px] text-primary p-[10px] capitalize block transition-all hover:bg-primary hover:text-white text-center my-[-1px] rounded-t-[12px]">Mannan Town</a>
+                                                        class="font-lora leading-[1.571] text-[14px] text-primary p-[10px] capitalize block transition-all hover:bg-primary hover:text-white text-center my-[-1px] rounded-t-[12px]">AlMannan Garden</a>
                                                 </li>
                                                 <li
                                                 class="border-b border-dashed border-primary border-opacity-40 last:border-b-0 hover:border-solid transition-all">
