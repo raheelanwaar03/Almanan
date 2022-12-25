@@ -6433,3 +6433,15 @@ input:focus {
     align-items: center;
     margin-bottom: 20px;
 }
+
+.imagesMannan
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgAlmannan
+{
+    margin-right:25px;
+}

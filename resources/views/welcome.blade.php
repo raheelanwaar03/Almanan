@@ -110,10 +110,11 @@
                 <div class="col-span-12 lg:col-span-6 lg:pl-[70px]">
                     <p class="max-w-[448px]" style="font-family: romanian">
                         <b> Our team is passionate about combining integrity with a dynamic
-                        approach to business and ensures comprehensive service is tailored for every client's
-                        specific requirements, both locally and internationally. We are committed to understanding
-                        clients' needs so that they can provide confidential guidance and expertise on every aspect
-                        of buying and selling property </b>.</p>
+                            approach to business and ensures comprehensive service is tailored for every client's
+                            specific requirements, both locally and internationally. We are committed to understanding
+                            clients' needs so that they can provide confidential guidance and expertise on every aspect
+                            of buying and selling property </b>.
+                    </p>
 
                     <div class="-mb-10 mt-12 xl:mt-[70px] 2xl:mt-[100px]">
                         <div class="flex flex-wrap mb-5 lg:mb-10">
@@ -171,39 +172,12 @@
                 </div>
             </div>
 
-            <div class="properties-slider">
-                <div class="swiper  -mx-[15px] -my-[60px] px-[15px] py-[60px]">
-                    <div class="swiper-wrapper">
-                        <!-- swiper-slide start -->
-                        <div class="swiper-slide">
-                            <div
-                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
-                                <div class="relative">
-                                    <a href="#" class="block">
-                                        <img src="assets/images/team/team1.jpg" class="w-full h-full" loading="lazy"
-                                            width="370" height="266" alt="Ruposibangla de parlosia.">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div
-                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
-                                <div class="relative">
-                                    <a href="#" class="block">
-                                        <img src="assets/images/team/team2.jpg" class="w-full h-full" loading="lazy"
-                                            width="370" height="266" alt="Ruposibangla de parlosia.">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- swiper-slide end-->
-                    </div>
-                    <!-- Add Pagination -->
-                    <div class="swiper-pagination"></div>
-                </div>
+            <div class="imagesMannan">
+                <img src="assets/images/team/team1.jpg" class="imgAlmannan" width="370"
+                    height="266" alt="Ruposibangla de parlosia.">
+                <img src="assets/images/team/team2.jpg" class="imgAlmannan" width="370"
+                    height="266" alt="Ruposibangla de parlosia.">
             </div>
-
         </div>
     </section>
 
