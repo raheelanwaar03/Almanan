@@ -253,7 +253,7 @@
                     <span class="text-secondary text-tiny inline-block mb-2">Newly Added</span>
                     <h2
                         class="font-lora text-primary text-[24px] sm:text-[30px] leading-[1.277] xl:text-xl capitalize mb-5 lg:mb-16 font-medium max-w-[500px]">
-                        Our Moder work and techniques will impress you<span class="text-secondary">.</span>
+                        Our Modern work and techniques will impress you<span class="text-secondary">.</span>
                     </h2>
                     <div class="villaImage" data-relative-input="true">
                         <img src="{{ asset('assets/images/hero/spanishVilla.jpeg') }}" alt="villa image">
