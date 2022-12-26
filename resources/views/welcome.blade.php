@@ -42,7 +42,7 @@
                                 <div class="py-[20px] px-[20px] text-left">
                                     <h3><a href="#"
                                             class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Green
-                                            City.</a></h3>
+                                            Villa.</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -77,6 +77,71 @@
                                     <h3><a href="#"
                                             class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">AlMannan
                                             Town.</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/properties/property2.jpg" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">La Vista Homes.</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/properties/spanishVilla.jpeg" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Spanish Villa.</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/properties/city.jpg" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">AlMannan
+                                            City.</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
+                                        <img src="assets/images/properties/green.jpeg" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Green City Executive I-II.</a></h3>
                                 </div>
                             </div>
                         </div>
