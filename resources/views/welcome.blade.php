@@ -68,6 +68,22 @@
                                 class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
                                 <div class="relative">
                                     <a href="#" class="block">
+                                        <img src="assets/images/properties/garder.jpg" class="w-full h-full"
+                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
+                                    </a>
+                                </div>
+
+                                <div class="py-[20px] px-[20px] text-left">
+                                    <h3><a href="#"
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">AlMannan Garden.</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div
+                                class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                                <div class="relative">
+                                    <a href="#" class="block">
                                         <img src="assets/images/properties/modernCity.jpg" class="w-full h-full"
                                             loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
                                     </a>
