@@ -21,8 +21,7 @@
             </div>
         </div>
     </section>
-
-
+    
     <section class="popular-properties py-[80px] lg:py-[120px]">
     </section>
 @endsection

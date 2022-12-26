@@ -40,12 +40,12 @@
                         <ul class="flex flex-wrap list-none">
                             <li class="block">
                                 <span class="font-lora text-secondary text-xl"><span class="counter-up">20</span>
-                                    <span>k+</span></span>
+                                    <span>+</span></span>
                                 <p>Properties</p>
                             </li>
                             <li class="block pl-[30px] sm:pl-[40px] md:pl-[60px]">
                                 <span class="font-lora text-secondary text-xl"><span class="counter-up">12</span>
-                                    <span>k+</span></span>
+                                    <span>+</span></span>
                                 <p>Customers</p>
                             </li>
                             <li class="block pl-[30px] sm:pl-[40px] md:pl-[60px]">
