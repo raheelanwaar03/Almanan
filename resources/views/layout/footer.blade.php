@@ -88,6 +88,9 @@
         </div>
     </div>
 </footer>
+<div class="developer">
+    <p>2022 © All Rights Reserved • www.almannanbuilders.com</p>
+</div>
 <!-- Footer End -->
 
 <a id="scrollUp"
