@@ -48,6 +48,10 @@ Route::get('/SpanishVilla', function () {
     return view('spanishVilla');
 });
 
+Route::get('/GreenVilla', function () {
+    return view('greenVilla');
+});
+
 
 Route::get('/LebertyMarket', function () {
     return view('lebertyMarket');
