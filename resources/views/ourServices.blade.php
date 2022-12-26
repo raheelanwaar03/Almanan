@@ -13,7 +13,7 @@
                             Our Services
                         </h1>
 
-                        <p class="text-base mt-5 max-w-[500px] mx-auto text-center">
+                        <p class="text-base mt-5 max-w-[500px] mx-auto text-center" style="font-family: romanian">
                             Huge number of propreties availabe here for buy and sell
                             also you can find here co-living property as you like
                         </p>
