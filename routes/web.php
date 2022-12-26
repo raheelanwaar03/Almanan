@@ -60,3 +60,11 @@ Route::get('/GreenLand', function () {
 Route::get('/MannanTown', function () {
     return view('mannanTown');
 });
+
+Route::get('/AlMannanCity', function () {
+    return view('alMannanCity');
+});
+
+Route::get('/GreenCity', function () {
+    return view('greenCity');
+});
