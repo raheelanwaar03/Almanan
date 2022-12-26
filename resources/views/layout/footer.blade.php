@@ -88,9 +88,6 @@
         </div>
     </div>
 </footer>
-<div class="developer">
-    <p>Developer contact : info@raheelanwaar.com</p>
-</div>
 <!-- Footer End -->
 
 <a id="scrollUp"
