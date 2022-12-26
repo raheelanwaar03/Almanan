@@ -30,7 +30,7 @@
             <div class="col-span-12 sm:col-span-6 lg:col-span-2 mb-[30px]">
                 <h3 class="font-lora font-normal text-[22px] leading-[1.222] text-primary mb-[20px] lg:mb-[30px]">
                     Address<span class="text-secondary">.</span></h3>
-                <p>House No 68 A Model town Road Multan</p>
+                <p>Banglow No 68 A Model town Road Multan</p>
                 <p>
                     Phone: 0304 1119333
                 </p>

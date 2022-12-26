@@ -420,7 +420,7 @@
                                 class="font-lora font-normal text-base text-primary group-hover:text-secondary">Our
                                 team</a></h3>
                         <p class="font-normal text-[14px] leading-none capitalize mt-[5px] group-hover:text-body">
-                            We have 50+ team member</p>
+                            We have 600+ team member</p>
                     </div>
                 </div>
                 <!-- single team end-->

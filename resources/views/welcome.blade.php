@@ -245,7 +245,6 @@
         </div>
     </section>
 
-
     <section class="about-section pt-10">
         <div class="container">
             <div class="grid grid-cols-12 gap-6 items-center">
