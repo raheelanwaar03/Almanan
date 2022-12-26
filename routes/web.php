@@ -68,3 +68,7 @@ Route::get('/AlMannanCity', function () {
 Route::get('/GreenCity', function () {
     return view('greenCity');
 });
+
+Route::get('/CityPhaseI-II', function () {
+    return view('cityPhase');
+});
