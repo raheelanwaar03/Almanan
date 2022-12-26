@@ -75,7 +75,7 @@
 
                                 <div class="py-[20px] px-[20px] text-left">
                                     <h3><a href="#"
-                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Mannan
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">AlMannan
                                             Town.</a></h3>
                                 </div>
                             </div>
@@ -230,7 +230,7 @@
                             class="font-lora text-white text-[24px] sm:text-[30px] leading-[1.277] xl:text-xl mb-[10px] font-medium">
                             Watch the video for taking your decision easily<span class="text-secondary">.</span>
                         </h2>
-                        <a href="{{ url('/Videos') }}"
+                        {{-- <a href="{{ url('/Videos') }}"
                             class="flex flex-wrap items-center text-secondary text-tiny mt-[20px]">View
                             all
                             <svg class="ml-[10px]" width="26" height="11" viewBox="0 0 26 11"
@@ -239,7 +239,7 @@
                                     d="M20.0877 0.69303L24.2075 5.00849H0V5.99151H24.2075L20.0877 10.307L20.7493 11L26 5.5L20.7493 0L20.0877 0.69303Z"
                                     fill="currentColor"></path>
                             </svg>
-                        </a>
+                        </a> --}}
                     </div>
                 </div>
                 <div class="col-span-12 lg:col-span-6 text-center">

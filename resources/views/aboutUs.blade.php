@@ -113,7 +113,7 @@
                                                     class="text-secondary">.</span>
                                             </h2>
                                             <p class="max-w-[480px]">
-                                                Bary do a great job to find the perfect home. It’s very easy for
+                                                AlMannan bulider done a great job to find the perfect home. It’s very easy for
                                                 every one to buy, sell or rent property we belive they continure
                                                 their great service and appriciate them recomended.
 
@@ -179,7 +179,7 @@
 
                                 <div class="pl-[50px] xl:pl-[150px]">
                                     <div class="inline-block relative bg-primary text-primary rounded-[30px] z-10">
-                                        <img src="assets/images/testimonial/person4.png"
+                                        <img src="assets/images/testimonial/girl.png"
                                             class="w-auto h-auto block mx-auto relative z-[2] thumb" loading="lazy"
                                             width="402" height="505" alt="Sun Francisco">
                                         <img class="absolute left-[0px] top-0 z-[1]"
@@ -218,7 +218,7 @@
                                                     class="text-secondary">.</span>
                                             </h2>
                                             <p class="max-w-[480px]">
-                                                Bary do a great job to find the perfect home. It’s very easy for
+                                                AlMannan bulider done a great job to find the perfect home. It’s very easy for
                                                 every one to buy, sell or rent property we belive they continure
                                                 their great service and appriciate them recomended.
 
@@ -228,7 +228,7 @@
                                         <ul>
                                             <li class="flex flex-wrap items-center justify-between mt-4">
                                                 <span
-                                                    class="font-lora text-[18px] leading-none capitalize text-secondary">Umer</span>
+                                                    class="font-lora text-[18px] leading-none capitalize text-secondary">Ayesha Khan</span>
                                                 <span class="flex flex-wrap">
                                                     <span class="ml-[4px]">
                                                         <svg width="10" height="11" viewBox="0 0 10 11"
