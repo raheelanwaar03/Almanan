@@ -66,7 +66,7 @@
                                                 <li
                                                     class="border-b border-dashed border-primary border-opacity-40 last:border-b-0 hover:border-solid transition-all">
                                                     <a href="{{ url('/SpanishVilla') }}"
-                                                        class="font-lora leading-[1.571] text-[14px] text-primary p-[10px] capitalize block transition-all hover:bg-primary hover:text-white text-center my-[-1px] rounded-t-[12px]">Spanish
+                                                        class="font-lora leading-[1.571] text-[14px] text-primary p-[10px] capitalize block transition-all hover:bg-primary hover:text-white text-center my-[-1px] rounded-t-[12px]">Almannan Spanish
                                                         Villa</a>
                                                 </li>
                                                 <li

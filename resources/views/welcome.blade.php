@@ -108,7 +108,7 @@
 
                                 <div class="py-[20px] px-[20px] text-left">
                                     <h3><a href="#"
-                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Spanish Villa.</a></h3>
+                                            class="font-lora leading-tight text-[22px] xl:text-[26px] text-primary hover:text-secondary transition-all font-medium">Almannan Spanish Villa.</a></h3>
                                 </div>
                             </div>
                         </div>
