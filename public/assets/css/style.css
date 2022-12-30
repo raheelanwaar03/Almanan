@@ -6445,3 +6445,15 @@ input:focus {
 {
     margin-right:25px;
 }
+
+.whatsapp {
+    position: fixed;
+    right: 8px;
+    bottom: 100px;
+}
+
+.whatsapp img {
+    color: #fff;
+    font-size: 200px;
+}
+
