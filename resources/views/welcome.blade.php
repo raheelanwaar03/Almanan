@@ -35,7 +35,7 @@
                                 <div class="relative">
                                     <a href="#" class="block">
                                         <img src="assets/images/properties/GreenCity.jpg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
+                                            loading="lazy" width="370" height="266" alt="#">
                                     </a>
                                 </div>
 
@@ -52,7 +52,7 @@
                                 <div class="relative">
                                     <a href="#" class="block">
                                         <img src="assets/images/properties/LibertyMarket.jpg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
+                                            loading="lazy" width="370" height="266" alt="#">
                                     </a>
                                 </div>
 
@@ -69,7 +69,7 @@
                                 <div class="relative">
                                     <a href="#" class="block">
                                         <img src="assets/images/properties/garder.jpg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Ruposibangla de parlosia.">
+                                            loading="lazy" width="370" height="266" alt="#">
                                     </a>
                                 </div>
 
@@ -85,7 +85,7 @@
                                 <div class="relative">
                                     <a href="#" class="block">
                                         <img src="assets/images/properties/modernCity.jpg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                            loading="lazy" width="370" height="266" alt="#">
                                     </a>
                                 </div>
 
@@ -102,7 +102,7 @@
                                 <div class="relative">
                                     <a href="#" class="block">
                                         <img src="assets/images/properties/property2.jpg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                            loading="lazy" width="370" height="266" alt="#">
                                     </a>
                                 </div>
 
@@ -118,7 +118,7 @@
                                 <div class="relative">
                                     <a href="#" class="block">
                                         <img src="assets/images/properties/spanishVilla.jpeg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                            loading="lazy" width="370" height="266" alt="#">
                                     </a>
                                 </div>
 
@@ -134,7 +134,7 @@
                                 <div class="relative">
                                     <a href="#" class="block">
                                         <img src="assets/images/properties/green.jpeg" class="w-full h-full"
-                                            loading="lazy" width="370" height="266" alt="Sinomen Studio Palace.">
+                                            loading="lazy" width="370" height="266" alt="#">
                                     </a>
                                 </div>
 
@@ -223,7 +223,7 @@
     <section class="popular-properties py-[80px] lg:py-[125px]">
         <div class="container">
             <div class="logosStyle">
-                <img src="{{ asset('assets/images/logo/2.png') }}" alt="">
+                <img src="{{ asset('assets/images/logo/2.png') }}" alt="#">
                 <img src="{{ asset('assets/images/logo/LogoLavista.png') }}" alt="Lavista">
             </div>
             <div class="grid grid-cols-12">
@@ -238,9 +238,9 @@
 
             <div class="imagesMannan">
                 <img src="assets/images/team/team1.jpg" class="imgAlmannan" width="370"
-                    height="266" alt="Ruposibangla de parlosia.">
+                    height="266" alt="#">
                 <img src="assets/images/team/team2.jpg" class="imgAlmannan" width="370"
-                    height="266" alt="Ruposibangla de parlosia.">
+                    height="266" alt="#">
             </div>
         </div>
     </section>
@@ -376,7 +376,7 @@
                     <div class="relative rounded-[6px_6px_0px_0px]">
                         <a href="#">
                             <img src="assets/images/team/person1.jpg" class="w-auto h-auto block mx-auto" loading="lazy"
-                                width="215" height="310" alt="Amelia Margaret">
+                                width="215" height="310" alt="person img">
                         </a>
                         <ul class="flex flex-col absolute w-full top-[30px] left-0 overflow-hidden">
                             <li
@@ -567,7 +567,7 @@
                                     <div class="inline-block relative bg-primary text-primary rounded-[30px] z-10">
                                         <img src="assets/images/testimonial/girl.png"
                                             class="w-auto h-auto block mx-auto relative z-[2] thumb" loading="lazy"
-                                            width="402" height="505" alt="Oliver Stephen">
+                                            width="402" height="505" alt="Person two">
                                         <img class="absolute left-[0px] top-0 z-[1]"
                                             src="assets/images/testimonial/persone-pattern.png" width="400"
                                             height="500" loading="lazy" alt="shape">
@@ -671,7 +671,7 @@
                                     <div class="inline-block relative bg-primary text-primary rounded-[30px] z-10">
                                         <img src="assets/images/testimonial/person2.png"
                                             class="w-auto h-auto block mx-auto relative z-[2] thumb" loading="lazy"
-                                            width="402" height="505" alt="Sun Francisco">
+                                            width="402" height="505" alt="pesrson3">
                                         <img class="absolute left-[0px] top-0 z-[1]"
                                             src="assets/images/testimonial/persone-pattern.png" width="400"
                                             height="500" loading="lazy" alt="shape">
