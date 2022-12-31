@@ -235,16 +235,53 @@
                     </div>
                 </div>
             </div>
+            <div class="properties-slider">
+            <div class="swiper  -mx-[15px] -my-[60px] px-[15px] py-[60px]">
+                <div class="swiper-wrapper">
+                    <!-- swiper-slide start -->
+                    <div class="swiper-slide">
+                        <div
+                            class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                            <div class="relative">
+                                <a href="#" class="block">
+                                    <img src="assets/images/team/1.jpg" class="w-full h-full"
+                                        loading="lazy" width="370" height="266" alt="#">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div
+                            class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                            <div class="relative">
+                                <a href="#" class="block">
+                                    <img src="assets/images/team/team1.jpg" class="w-full h-full"
+                                        loading="lazy" width="370" height="266" alt="#">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div
+                            class="overflow-hidden rounded-md drop-shadow-[0px_0px_5px_rgba(0,0,0,0.1)] bg-[#FFFDFC] text-center transition-all duration-300 hover:-translate-y-[10px]">
+                            <div class="relative">
+                                <a href="#" class="block">
+                                    <img src="assets/images/team/team2.jpg" class="w-full h-full"
+                                        loading="lazy" width="370" height="266" alt="#">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
 
-            <div class="imagesMannan">
-                <img src="assets/images/team/team1.jpg" class="imgAlmannan" width="370"
-                    height="266" alt="#">
-                <img src="assets/images/team/team2.jpg" class="imgAlmannan" width="370"
-                    height="266" alt="#">
+                    <!-- swiper-slide end-->
+                </div>
+                <!-- Add Pagination -->
+                <div class="swiper-pagination"></div>
             </div>
         </div>
-    </section>
 
+        </div>
+    </section>
     <section class="about-section pt-10">
         <div class="container">
             <div class="grid grid-cols-12 gap-6 items-center">
