@@ -20,14 +20,6 @@
 </section>
 <!-- Hero section end -->
 
-<section style="margin-top:50px">
-
-    <div class="imgCenter">
-        <img src="{{ asset('assets/images/map.png') }}" alt="map">
-    </div>
-
-</section>
-
 <!-- contact form start -->
 <section class="py-[80px] lg:py-[120px]">
     <div class="container">

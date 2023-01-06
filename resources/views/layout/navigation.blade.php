@@ -38,7 +38,7 @@
                     <div class="grid grid-cols-12">
                         <div class="col-span-12">
                             <div class="flex flex-wrap items-center justify-between">
-                                <a href="index.html" class="block">
+                                <a href="{{ url('/') }}" class="block">
                                     <img class="w-full h-full" src="assets/images/logo/Almanan1.png" loading="lazy"
                                         width="99" height="46" alt="brand logo">
                                 </a>

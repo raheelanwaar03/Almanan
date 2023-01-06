@@ -282,6 +282,15 @@
 
         </div>
     </section>
+
+<section style="margin-top:50px">
+
+    <h1 style="text-align:center;font-size:40px" class="underline">DHA with Almannan Builder</h1>
+    <div class="imgCenter">
+        <img src="{{ asset('assets/images/map.png') }}" alt="map">
+    </div>
+
+</section>
     <section class="about-section pt-10">
         <div class="container">
             <div class="grid grid-cols-12 gap-6 items-center">
@@ -706,7 +715,7 @@
 
                                 <div class="pl-[50px] xl:pl-[150px]">
                                     <div class="inline-block relative bg-primary text-primary rounded-[30px] z-10">
-                                        <img src="assets/images/testimonial/person2.png"
+                                        <img src="assets/images/testimonial/rrr.png"
                                             class="w-auto h-auto block mx-auto relative z-[2] thumb" loading="lazy"
                                             width="402" height="505" alt="pesrson3">
                                         <img class="absolute left-[0px] top-0 z-[1]"
