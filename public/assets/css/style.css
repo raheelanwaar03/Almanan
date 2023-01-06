@@ -6457,3 +6457,10 @@ input:focus {
     font-size: 200px;
 }
 
+.imgCenter
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
